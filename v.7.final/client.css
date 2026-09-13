@@ -10,7 +10,8 @@
   --muted: #a99d97;
   --rule: rgba(242, 238, 232, .12);
   --shell: 1320px;
-  --header-height: 178px;
+  --header-height: 70px;
+  --header-upper-height: 108px;
 }
 html { scroll-padding-top: calc(var(--header-height) + 24px); }
 .case-panel { scroll-margin-top: 0; }
@@ -23,7 +24,7 @@ html { scroll-padding-top: calc(var(--header-height) + 24px); }
 .light { --muted: #6b615d; --rule: rgba(21, 16, 15, .12); }
 .button { text-transform: uppercase; letter-spacing: .09em; }
 .button:hover { background: var(--bright); border-color: var(--bright); }
-.header { height: auto; position: sticky; top: 0; z-index: 40; }
+.header { height: auto; position: sticky; top: calc(-1 * var(--header-upper-height)); z-index: 40; }
 .header-identity { min-height: 108px; display: flex; align-items: center; gap: 36px; }
 .brand-lockup { display: inline-flex; align-items: center; gap: 23px; flex-shrink: 0; }
 .brand-mark { font: 400 74px/1 var(--display); border-right: 1px solid #75635d; padding-right: 23px; }
@@ -31,6 +32,7 @@ html { scroll-padding-top: calc(var(--header-height) + 24px); }
 .brand-name > span { display: block; font-size: 13px; font-weight: 400; letter-spacing: .23em; margin-top: 3px; }
 .header-location { margin-left: auto; }
 .header-location, .header-contact { display: grid; gap: 3px; }
+.header-row .header-contact { margin-left: auto; }
 .header-phone { font-size: 17px; letter-spacing: .015em; white-space: nowrap; }
 .header-email { font-size: 12px; color: var(--muted); }
 .header-messengers { display: flex; align-items: center; gap: 4px; padding-left: 18px; border-left: 1px solid var(--rule); }
@@ -124,6 +126,8 @@ html { scroll-padding-top: calc(var(--header-height) + 24px); }
   .hero-portrait figcaption a { font-size: 21px; }
 }
 @media (max-width: 900px) {
+  :root { --header-upper-height: 0px; }
+  .header-identity .header-button { display: none; }
   .header-identity { min-height: 95px; gap: 22px; }
   .brand-mark { font-size: 62px; }
   .brand-name { font-size: 21px; }
@@ -217,4 +221,13 @@ html { scroll-padding-top: calc(var(--header-height) + 24px); }
   }
   .media .section-top { display: grid; }
   .media .intro { justify-self: start; }
+}
+
+@media (min-width: 901px) and (max-width: 1100px) {
+  .header-row { gap: 16px; }
+  .header-row .main-nav { gap: 12px; }
+  .header-row .header-phone { font-size: 15px; }
+  .header-row .header-email { font-size: 11px; }
+  .header-messengers { gap: 2px; padding-left: 12px; }
+  .header-messengers .social-icon { width: 30px; flex-basis: 30px; }
 }

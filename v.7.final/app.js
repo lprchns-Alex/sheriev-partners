@@ -1,6 +1,12 @@
 const menu=document.querySelector('#mobile-menu'),toggle=document.querySelector('.menu-toggle');
 const header = document.querySelector('.header');
-const updateHeaderHeight = () => document.documentElement.style.setProperty('--header-height', `${Math.ceil(header.getBoundingClientRect().height)}px`);
+const headerUpper = document.querySelector('.header-identity');
+const headerNav = document.querySelector('.header-navigation');
+const updateHeaderHeight = () => {
+  const navHeight = headerNav.getBoundingClientRect().height;
+  document.documentElement.style.setProperty('--header-height', `${Math.ceil(navHeight || header.getBoundingClientRect().height)}px`);
+  document.documentElement.style.setProperty('--header-upper-height', `${navHeight ? Math.ceil(headerUpper.getBoundingClientRect().height) : 0}px`);
+};
 new ResizeObserver(updateHeaderHeight).observe(header);
 updateHeaderHeight();
 toggle.addEventListener('click',()=>{menu.showModal();document.body.classList.add('menu-open');toggle.setAttribute('aria-expanded','true')});
