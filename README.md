@@ -1,11 +1,12 @@
 # Шериев и партнёры — варианты главной страницы
 
-Пять сохранённых концепций сайта Коллегии адвокатов Москвы «Шериев и партнёры».
+Сохранённые версии сайта Коллегии адвокатов Москвы «Шериев и партнёры».
 
 ## Просмотр
 
 [Все варианты](https://lprchns-alex.github.io/sheriev-partners/)
 
+- [v.7.final — правки клиента на основе v5.0](https://lprchns-alex.github.io/sheriev-partners/v.7.final/)
 - [v1.0 — первый прототип](https://lprchns-alex.github.io/sheriev-partners/v1.0/)
 - [v2.0 — с реальными портретами](https://lprchns-alex.github.io/sheriev-partners/v2.0/)
 - [v3.0 — тёмная редакционная подача](https://lprchns-alex.github.io/sheriev-partners/v3.0/)
