@@ -1,4 +1,8 @@
 const menu=document.querySelector('#mobile-menu'),toggle=document.querySelector('.menu-toggle');
+const header = document.querySelector('.header');
+const updateHeaderHeight = () => document.documentElement.style.setProperty('--header-height', `${Math.ceil(header.getBoundingClientRect().height)}px`);
+new ResizeObserver(updateHeaderHeight).observe(header);
+updateHeaderHeight();
 toggle.addEventListener('click',()=>{menu.showModal();document.body.classList.add('menu-open');toggle.setAttribute('aria-expanded','true')});
 function closeMenu(){menu.close();document.body.classList.remove('menu-open');toggle.setAttribute('aria-expanded','false')}
 document.querySelector('.menu-close').addEventListener('click',closeMenu);

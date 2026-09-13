@@ -1,6 +1,6 @@
 (() => {
   const reduced = matchMedia('(prefers-reduced-motion: reduce)');
-  const wide = matchMedia('(min-width: 901px) and (min-height: 651px)');
+  const wide = matchMedia('(min-width: 901px) and (min-height: 901px)');
   const hero = document.querySelector('.hero');
   const portrait = document.querySelector('.hero-portrait');
   const cards = [...document.querySelectorAll('.case-panel')];
@@ -62,7 +62,7 @@
     rects.forEach((r,i)=>{if(r.top<=height*.53) active=i;});
     cards.forEach((card,i)=>{
       const next=rects[i+1];
-      const p=next?clamp((height-next.top)/(height-88)):0;
+      const p=next?clamp((height-next.top)/(height-document.querySelector('.header').offsetHeight-88)):0;
       card.style.transform=animated&&desktop?`translateY(${-p*16}px) scale(${1-p*.045})`:'';
     });
     nav.forEach((a,i)=>{if(i===active)a.setAttribute('aria-current','true');else a.removeAttribute('aria-current');});
@@ -83,7 +83,9 @@
     event.preventDefault();
     const target=document.querySelector(a.getAttribute('href'));
     history.replaceState(null,'',a.getAttribute('href'));
-    scrollTo({top:layoutTop(target)-(wide.matches?100:24),behavior:reduced.matches?'instant':'smooth'});
+    const headerHeight = document.querySelector('.header').offsetHeight;
+    const tabsHeight = wide.matches && !reduced.matches ? document.querySelector('.case-tabs').offsetHeight : 0;
+    scrollTo({top:layoutTop(target)-headerHeight-tabsHeight-24,behavior:reduced.matches?'instant':'smooth'});
   }));
   schedule();
 })();
