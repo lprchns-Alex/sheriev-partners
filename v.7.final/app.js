@@ -24,9 +24,9 @@ document.querySelectorAll('.inquiry-form').forEach(form => {
   form.addEventListener('input', () => { status.textContent = ''; });
 });
 
-document.querySelectorAll('a[href="#hero-form"]').forEach(link => {
+document.querySelectorAll('a[href="#consultation"]').forEach(link => {
   link.addEventListener('click', () => {
     // Wait for the native anchor jump and mobile dialog to close before focusing.
-    requestAnimationFrame(() => document.querySelector('#hero-name').focus({preventScroll: true}));
+    requestAnimationFrame(() => document.querySelector('#contact-name').focus({preventScroll: true}));
   });
 });
