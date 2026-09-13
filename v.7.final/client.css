@@ -61,6 +61,7 @@
 .facts > div:not(:first-child) { padding-left: 32px; }
 .facts strong { font-size: 80px; line-height: 1; }
 .facts strong > span { font-size: 44px; color: #c4a79c; }
+.facts strong > .fact-unit { font: 400 14px/1 var(--font); letter-spacing: 0; margin-left: 6px; white-space: nowrap; }
 .facts .fact-pending strong, .facts .fact-pending strong > span { color: #766760; }
 .facts .fact-label { font-size: 11px; font-weight: 500; color: var(--paper); line-height: 1.6; letter-spacing: .06em; margin-top: 28px; min-height: 38px; }
 .facts .fact-note { font-size: 11px; line-height: 1.5; margin-top: 27px; color: var(--muted); }
@@ -181,6 +182,7 @@
   .facts { margin-top: 40px; padding-top: 30px; gap: 24px 0; }
   .facts strong { font-size: 59px; }
   .facts strong > span { font-size: 32px; }
+  .facts strong > .fact-unit { font-size: 11px; margin-left: 4px; }
   .facts > div { padding-right: 16px; }
   .facts > div:not(:first-child) { padding-left: 18px; }
   .facts > div:nth-child(3) { padding-left: 0; }
