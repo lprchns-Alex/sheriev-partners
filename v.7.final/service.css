@@ -1,0 +1,190 @@
+/* Service detail template: inherits the approved header, typography and form. */
+.service-page .breadcrumbs { flex-wrap: wrap; gap: 8px 14px; }
+.service-hero-grid { display: grid; grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr); gap: 80px; align-items: center; padding: 52px 0 55px; }
+.service-kicker { font-size: 10px; color: var(--muted); margin-bottom: 27px; }
+.service-hero h1 { font-size: clamp(64px, 6vw, 86px); line-height: 1.04; letter-spacing: -.055em; }
+.service-hero h1 em { color: #c4a79c; }
+.service-lead { margin-top: 27px; font-size: 21px; line-height: 1.5; }
+.service-description { margin-top: 12px; max-width: 510px; color: var(--muted); font-size: 15px; line-height: 1.8; }
+.service-actions { display: flex; gap: 28px; flex-wrap: wrap; align-items: center; margin-top: 30px; }
+.service-actions .button { font-size: 10px; padding: 17px 24px; }
+.service-phone { font-size: 19px; white-space: nowrap; }
+.service-portrait { margin: 0; background: var(--surface); }
+.service-portrait > img { display: block; width: 100%; height: 430px; object-fit: cover; object-position: 50% 0; filter: grayscale(1); }
+.service-portrait figcaption { padding: 23px 26px; }
+.service-portrait .label { font-size: 9px; color: var(--muted); }
+.service-portrait figcaption a { display: flex; gap: 12px; align-items: center; justify-content: space-between; font: 400 29px/1.4 var(--display); margin: 10px 0 12px; letter-spacing: -.035em; }
+.service-portrait figcaption a span { font: 24px var(--font); }
+.service-jump { display: flex; flex-wrap: wrap; gap: 14px 32px; align-items: center; border-top: 1px solid var(--rule); padding: 24px 0; }
+.service-jump > .label { color: var(--muted); font-size: 9px; margin-right: auto; }
+.service-jump a { font-size: 12px; padding: 4px 0; }
+.service-jump a:hover { color: #c4a79c; }
+.service-situations { display: grid; grid-template-columns: 1fr 1fr; gap: 0 65px; align-items: start; }
+.service-disclosure { border-top: 1px solid var(--rule); }
+.service-disclosure summary { display: grid; grid-template-columns: 24px 1fr 22px; align-items: center; gap: 20px; cursor: pointer; padding: 25px 0; list-style: none; }
+.service-disclosure summary::-webkit-details-marker { display: none; }
+.service-disclosure summary > .label { color: var(--muted); font-size: 10px; }
+.service-disclosure summary h3 { font-size: 28px; }
+.service-disclosure summary:hover h3 { color: var(--red); }
+.service-disclosure summary:focus-visible { outline: 2px solid var(--red); outline-offset: 4px; }
+.disclosure-sign { position: relative; width: 18px; height: 18px; color: var(--red); }
+.disclosure-sign::before, .disclosure-sign::after { content: ''; position: absolute; background: currentColor; }
+.disclosure-sign::before { width: 16px; height: 1px; top: 8px; left: 1px; }
+.disclosure-sign::after { height: 16px; width: 1px; top: 1px; left: 8px; }
+.service-disclosure[open] .disclosure-sign::after { display: none; }
+.disclosure-body { padding: 0 42px 26px 44px; font-size: 15px; line-height: 1.8; color: var(--muted); }
+.disclosure-body .text-link { color: var(--red); font-size: 12px; margin-top: 8px; }
+.service-urgent { display: flex; align-items: center; justify-content: space-between; gap: 30px; border-top: 1px solid var(--rule); margin-top: 16px; padding-top: 27px; font-size: 14px; }
+.service-urgent > p { color: var(--muted); }
+.service-urgent > a { color: var(--red); display: flex; align-items: center; gap: 35px; min-height: 44px; }
+.service-urgent > a span { font-size: 24px; }
+.service-two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 80px; }
+.service-section-intro > .label { color: var(--muted); font-size: 10px; }
+.service-section-intro h2 { font-size: 48px; margin-top: 25px; }
+.service-section-intro > p:not(.label) { max-width: 420px; color: var(--muted); font-size: 15px; line-height: 1.85; margin-top: 27px; }
+.service-section-intro .text-link { color: var(--red); font-size: 13px; margin-top: 22px; }
+.service-stages { padding-top: 0; }
+.service-stages > .shell { border-top: 1px solid var(--rule); padding-top: 75px; }
+.service-stage-list { margin: 0; padding: 0; list-style: none; }
+.service-stage-list li { display: grid; grid-template-columns: 45px 1fr; gap: 22px; border-top: 1px solid var(--rule); padding: 28px 0; }
+.stage-number { font: 400 33px/1.2 var(--display); color: var(--red); }
+.service-stage-list h3 { font-size: 28px; }
+.service-stage-list p { font-size: 14px; line-height: 1.8; color: var(--muted); margin-top: 12px; }
+.service-directions { border-top: 1px solid var(--rule); margin-top: 60px; padding-top: 35px; }
+.directions-heading { display: flex; align-items: center; justify-content: space-between; gap: 30px; margin-bottom: 25px; }
+.directions-heading h3 { font-size: 32px; }
+.directions-heading .label { color: var(--muted); font-size: 10px; white-space: nowrap; }
+.service-directions-grid { display: grid; grid-template-columns: 1fr 1fr; column-gap: 65px; }
+.service-directions-grid > a { display: flex; align-items: center; justify-content: space-between; gap: 20px; border-bottom: 1px solid var(--rule); padding: 17px 0; font-size: 14px; line-height: 1.6; }
+.service-directions-grid > a span:last-child { color: var(--red); flex-shrink: 0; }
+.service-directions-grid > a:hover { color: var(--red); }
+.service-result h2 em, .service-materials h2 em { color: #c4a79c; }
+.service-result-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 70px; }
+.result-story { border-top: 1px solid var(--rule); padding-top: 25px; }
+.result-story > .label { font-size: 10px; color: var(--muted); }
+.result-story h3 { font-size: 32px; margin-top: 25px; }
+.result-story dl { margin: 28px 0 20px; }
+.result-story dl > div + div { margin-top: 22px; }
+.result-story dt { font-size: 10px; text-transform: uppercase; letter-spacing: .1em; color: #c4a79c; }
+.result-story dd { margin: 9px 0 0; font-size: 14px; line-height: 1.85; color: var(--muted); }
+.result-story > .text-link { color: #c4a79c; font-size: 13px; }
+.result-verdict { padding: 38px; background: var(--surface); border-left: 2px solid var(--bright); display: flex; flex-direction: column; }
+.result-verdict > .label { color: var(--muted); font-size: 10px; }
+.result-verdict h3 { font-size: 44px; margin: 40px 0 26px; }
+.result-verdict h3 em { color: #c4a79c; }
+.result-verdict > p:not(.label) { font-size: 14px; line-height: 1.85; color: var(--muted); }
+.verdict-foot { display: flex; justify-content: space-between; gap: 20px; border-top: 1px solid var(--rule); padding-top: 20px; margin-top: auto; font-size: 11px; color: var(--muted); }
+.verdict-foot span:last-child { font-size: 24px; color: #c4a79c; }
+.service-lawyer-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 55px; }
+.service-lawyer { display: grid; grid-template-columns: .85fr 1fr; gap: 28px; }
+.service-lawyer-photo > img { width: 100%; height: 330px; display: block; object-fit: cover; object-position: 50% 22%; filter: grayscale(1); }
+.service-lawyer-photo:hover { opacity: .85; }
+.service-lawyer > div { display: flex; flex-direction: column; align-items: start; }
+.service-lawyer .label { font-size: 9px; color: var(--muted); }
+.service-lawyer h3 { font-size: 36px; margin-top: 18px; }
+.service-lawyer p:not(.label) { font-size: 13px; line-height: 1.8; color: var(--muted); margin: 17px 0; }
+.service-lawyer .text-link { color: var(--red); font-size: 12px; margin-top: auto; gap: 25px; }
+.service-team-link { display: flex; justify-content: end; margin-top: 30px; border-top: 1px solid var(--rule); padding-top: 15px; }
+.service-team-link .text-link { color: var(--red); }
+.service-prices { padding-top: 0; }
+.service-prices .personal-pricing { margin-top: 0; }
+.service-questions { padding-top: 0; }
+.service-questions > .shell { padding-top: 70px; border-top: 1px solid var(--rule); }
+.service-faq .service-disclosure summary { grid-template-columns: 20px 1fr 18px; gap: 18px; }
+.service-faq h3 { font-size: 24px; }
+.service-faq .disclosure-body { padding-left: 38px; padding-right: 0; font-size: 14px; }
+.service-resource-list { border-top: 1px solid var(--rule); }
+.service-resource-list > a { display: grid; grid-template-columns: 135px 1fr 24px; gap: 30px; align-items: center; padding: 27px 0; border-bottom: 1px solid var(--rule); }
+.service-resource-list .label { color: var(--muted); font-size: 10px; }
+.service-resource-list h3 { font-size: 27px; }
+.service-resource-list > a > span:last-child { color: #c4a79c; font-size: 25px; }
+.service-resource-list > a:hover h3 { color: #c4a79c; }
+.service-page .contact { border-top: 1px solid var(--rule); }
+@media (max-width: 1100px) {
+  .service-hero-grid { gap: 45px; grid-template-columns: 1.5fr 1fr; }
+  .service-hero h1 { font-size: 68px; }
+  .service-portrait > img { height: 420px; }
+  .service-portrait figcaption { padding: 20px; }
+  .service-portrait figcaption a { font-size: 25px; }
+  .service-two-col, .service-result-grid { gap: 45px; }
+  .service-section-intro h2 { font-size: 43px; }
+  .service-lawyer-grid { gap: 35px; }
+  .service-lawyer { display: block; }
+  .service-lawyer-photo > img { height: 360px; }
+  .service-lawyer > div { padding-top: 23px; }
+  .service-lawyer h3 br { display: none; }
+  .service-lawyer h3 br::after { content: ' '; }
+  .service-lawyer h3 { font-size: 30px; }
+  .service-lawyer .text-link { margin-top: 15px; }
+  .result-verdict { padding: 30px; }
+  .result-verdict h3 { font-size: 38px; }
+}
+@media (max-width: 900px) {
+  .service-hero-grid { gap: 30px; }
+  .service-hero h1 { font-size: 58px; }
+  .service-kicker { font-size: 9px; }
+  .service-lead { font-size: 18px; }
+  .service-description { font-size: 14px; }
+  .service-portrait > img { height: 370px; }
+  .service-portrait figcaption a { font-size: 23px; }
+  .service-jump { gap: 10px 25px; }
+  .service-jump > .label { width: 100%; }
+  .service-situations { column-gap: 35px; }
+  .service-disclosure summary { gap: 12px; }
+  .service-disclosure summary h3 { font-size: 25px; }
+  .service-section-intro h2 { font-size: 39px; }
+  .service-two-col { gap: 35px; }
+  .service-stage-list li { gap: 15px; grid-template-columns: 35px 1fr; }
+  .service-stage-list h3 { font-size: 25px; }
+  .service-directions-grid { column-gap: 35px; }
+  .service-result-grid { gap: 30px; }
+  .result-story h3 { font-size: 29px; }
+  .result-verdict h3 { font-size: 35px; }
+  .result-verdict { padding: 26px; }
+  .service-resource-list > a { grid-template-columns: 105px 1fr 20px; gap: 20px; }
+}
+@media (max-width: 640px) {
+  .service-hero-grid { grid-template-columns: 1fr; padding-block: 36px; gap: 35px; }
+  .service-hero h1 { font-size: 52px; line-height: 1.05; }
+  .service-kicker { font-size: 9px; margin-bottom: 22px; max-width: 270px; line-height: 1.8; }
+  .service-lead { font-size: 19px; margin-top: 25px; }
+  .service-description { font-size: 15px; }
+  .service-actions { gap: 18px; margin-top: 25px; }
+  .service-actions .button { width: 100%; }
+  .service-phone { font-size: 24px; }
+  .service-portrait > img { height: 330px; }
+  .service-portrait figcaption { padding: 22px; }
+  .service-portrait figcaption a { font-size: 29px; }
+  .service-jump { column-gap: 22px; padding-bottom: 28px; }
+  .service-jump a { font-size: 12px; padding-block: 6px; }
+  .service-situations, .service-two-col, .service-result-grid, .service-directions-grid, .service-lawyer-grid { grid-template-columns: 1fr; }
+  .service-disclosure summary { padding-block: 22px; grid-template-columns: 20px 1fr 18px; }
+  .service-disclosure summary h3 { font-size: 25px; }
+  .disclosure-body { padding: 0 15px 25px 32px; font-size: 14px; }
+  .service-urgent { display: block; font-size: 13px; }
+  .service-urgent a { justify-content: space-between; margin-top: 12px; }
+  .service-stages { padding-top: 0; }
+  .service-stages > .shell { padding-top: 55px; }
+  .service-section-intro h2 { font-size: 39px; }
+  .service-section-intro > p:not(.label) { font-size: 14px; }
+  .service-stage-list h3 { font-size: 27px; }
+  .service-directions { margin-top: 30px; padding-top: 30px; }
+  .directions-heading { display: block; }
+  .directions-heading h3 { font-size: 29px; margin-bottom: 14px; }
+  .service-result-grid { gap: 32px; }
+  .result-story h3 { font-size: 30px; }
+  .result-verdict { padding: 28px 24px; min-height: 400px; }
+  .result-verdict h3 { font-size: 37px; margin-top: 27px; }
+  .verdict-foot { margin-top: 30px; }
+  .service-lawyer-grid { gap: 40px; }
+  .service-lawyer-photo > img { height: 360px; }
+  .service-lawyer h3 { font-size: 34px; }
+  .service-team-link { justify-content: start; }
+  .service-prices, .service-questions { padding-top: 0; }
+  .service-prices .personal-pricing { padding-top: 55px; }
+  .service-questions > .shell { padding-top: 55px; }
+  .service-faq .service-disclosure summary h3 { font-size: 24px; }
+  .service-resource-list > a { grid-template-columns: 1fr 22px; gap: 12px; }
+  .service-resource-list .label { grid-column: 1 / -1; }
+  .service-resource-list h3 { font-size: 26px; }
+}
