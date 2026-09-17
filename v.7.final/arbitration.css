@@ -1,0 +1,33 @@
+.arbitration-page .service-hero h1 { font-size: clamp(58px, 5.35vw, 77px); }
+.arbitration-page .service-portrait > img { object-position: 50% 0; }
+.arbitration-page .service-portrait figcaption a { font-size: 27px; }
+.arbitration-directions { display: grid; grid-template-columns: 1fr 1fr; gap: 0 65px; list-style: none; padding: 0; margin: 0; }
+.arbitration-directions li { display: grid; grid-template-columns: 24px 1fr; gap: 20px; align-items: baseline; padding: 18px 0; border-bottom: 1px solid var(--rule); font-size: 14px; line-height: 1.65; }
+.arbitration-directions .label { color: var(--muted); font-size: 10px; }
+.arbitration-document { color: var(--paper); align-items: center; min-height: 56px; margin-top: 32px; }
+.arbitration-document:hover { color: #c4a79c; }
+.arbitration-document:focus-visible { outline: 2px solid var(--bright); outline-offset: 5px; }
+.arbitration-prices .price-row dd { flex-wrap: wrap; justify-content: end; }
+.arbitration-prices .price-unit { flex-basis: 100%; max-width: 330px; text-align: right; line-height: 1.6; }
+@media (max-width: 1100px) {
+  .arbitration-page .service-hero h1 { font-size: 58px; }
+  .arbitration-page .service-portrait figcaption a { font-size: 24px; }
+  .arbitration-page .service-section-intro h2 { font-size: 39px; }
+}
+@media (min-width: 641px) and (max-width: 900px) {
+  .arbitration-page .service-hero-grid { grid-template-columns: 1fr; }
+  .arbitration-page .service-hero h1 { font-size: 72px; }
+  .arbitration-page .service-portrait { display: grid; grid-template-columns: 230px 1fr; align-items: center; }
+  .arbitration-page .service-portrait > img { height: 270px; }
+  .arbitration-page .service-section-intro h2 { font-size: 34px; }
+  .arbitration-directions { column-gap: 30px; }
+}
+@media (max-width: 640px) {
+  .arbitration-page .service-hero h1 { font-size: clamp(41px, 11.5vw, 56px); line-height: 1.08; }
+  .arbitration-directions { grid-template-columns: 1fr; }
+  .arbitration-directions li { gap: 12px; }
+  .arbitration-page .service-section-intro h2 { font-size: 35px; }
+  .arbitration-page .result-verdict h3 { font-size: 35px; }
+  .arbitration-prices .price-row dd { justify-content: start; }
+  .arbitration-prices .price-unit { text-align: left; }
+}
