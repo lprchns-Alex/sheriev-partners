@@ -1,0 +1,69 @@
+.pricing-hero { padding-top: 42px; }
+.pricing-hero-grid { display:grid; grid-template-columns:1.25fr 1fr; gap:80px; align-items:end; padding:58px 0 64px; }
+.pricing-hero-grid .label { color:var(--muted); font-size:10px; margin-bottom:28px; }
+.pricing-hero h1 { font-size:clamp(64px,6.5vw,94px); line-height:1.04; }
+.pricing-hero h1 em,.pricing-payment h2 em { color:#c4a79c; }
+.pricing-hero-grid>p { color:var(--muted); font-size:17px; line-height:1.8; max-width:430px; margin-bottom:9px; }
+.pricing-jump { border-top:1px solid var(--rule); display:flex; flex-wrap:wrap; align-items:center; gap:14px 30px; padding:23px 0 26px; }
+.pricing-jump>.label { color:var(--muted); font-size:9px; margin-right:auto; }
+.pricing-jump a { font-size:12px; padding:5px 0; }
+.pricing-jump a:hover { color:var(--red); }
+.pricing-note { background:var(--red); color:var(--paper); padding:29px 0; }
+.pricing-note .shell { display:grid; grid-template-columns:1fr 2.5fr; gap:50px; align-items:start; }
+.pricing-note .label { font-size:10px; opacity:.7; }
+.pricing-note p:last-child { font-size:15px; line-height:1.75; max-width:850px; }
+.pricing-group { padding:92px 0 110px; }
+.pricing-group-light { background:var(--paper); color:var(--ink); }
+.pricing-group-dark { background:var(--bg); color:var(--paper); }
+.pricing-group-head { display:flex; justify-content:space-between; align-items:end; gap:40px; padding-bottom:34px; }
+.pricing-group-head .label { opacity:.65; font-size:10px; margin-bottom:22px; }
+.pricing-group-head h2 { font-size:clamp(38px,4vw,57px); line-height:1.1; max-width:650px; }
+.pricing-count { color:var(--muted); font:500 11px/1 var(--font); text-transform:uppercase; letter-spacing:.12em; white-space:nowrap; }
+.pricing-rows { margin:0; border-top:1px solid currentColor; border-color:var(--rule); }
+.pricing-row { display:grid; grid-template-columns:minmax(0,1fr) 230px; gap:45px; align-items:center; border-bottom:1px solid var(--rule); padding:23px 0; }
+.pricing-row dt { display:flex; gap:22px; align-items:baseline; font-size:17px; line-height:1.6; }
+.pricing-row dt .label { color:var(--muted); flex:0 0 24px; font-size:10px; }
+.pricing-row dd { margin:0; color:var(--red); font:400 27px/1.2 var(--display); text-align:right; white-space:nowrap; }
+.pricing-group-dark .pricing-row dd { color:#c4a79c; }
+.pricing-payment { padding:105px 0; }
+.pricing-payment-grid { display:grid; grid-template-columns:1fr 1fr; gap:100px; }
+.pricing-payment .label { color:var(--muted); font-size:10px; margin-bottom:26px; }
+.pricing-payment h2 { font-size:clamp(42px,4vw,58px); line-height:1.1; }
+.pricing-payment-grid>div>p:not(.label) { color:var(--muted); line-height:1.8; font-size:15px; max-width:470px; }
+.pricing-payment ol { list-style:none; margin:30px 0 0; padding:0; border-top:1px solid var(--rule); }
+.pricing-payment li { display:grid; grid-template-columns:32px 1fr; gap:16px; border-bottom:1px solid var(--rule); padding:19px 0; font-size:15px; }
+.pricing-payment li .label { margin:0; color:var(--red); font-size:10px; }
+.pricing-page .contact { border-top:1px solid var(--rule); }
+@media(max-width:900px){
+ .pricing-hero-grid { gap:40px; }
+ .pricing-note .shell { grid-template-columns:1fr 2fr; gap:28px; }
+ .pricing-group { padding-block:72px 85px; }
+ .pricing-row { grid-template-columns:minmax(0,1fr) 180px; gap:25px; }
+ .pricing-row dt { font-size:15px; }
+ .pricing-row dd { font-size:23px; }
+ .pricing-payment-grid { gap:50px; }
+}
+@media(max-width:640px){
+ .pricing-hero { padding-top:32px; }
+ .pricing-hero-grid { grid-template-columns:1fr; gap:28px; padding-block:38px 42px; }
+ .pricing-hero h1 { font-size:57px; }
+ .pricing-hero-grid>p { font-size:15px; }
+ .pricing-jump { gap:10px 20px; }
+ .pricing-jump>.label { width:100%; margin:0 0 5px; }
+ .pricing-jump a { font-size:11px; }
+ .pricing-note { padding:25px 0; }
+ .pricing-note .shell { display:block; }
+ .pricing-note p:last-child { margin-top:15px; font-size:14px; }
+ .pricing-group { padding-block:60px 68px; }
+ .pricing-group-head { display:block; padding-bottom:25px; }
+ .pricing-group-head .label { margin-bottom:16px; }
+ .pricing-group-head h2 { font-size:39px; }
+ .pricing-count { display:block; margin-top:20px; }
+ .pricing-row { grid-template-columns:1fr; gap:10px; padding:20px 0; }
+ .pricing-row dt { gap:14px; font-size:15px; line-height:1.5; }
+ .pricing-row dt .label { flex-basis:20px; }
+ .pricing-row dd { text-align:left; font-size:25px; padding-left:34px; }
+ .pricing-payment { padding:68px 0; }
+ .pricing-payment-grid { grid-template-columns:1fr; gap:35px; }
+ .pricing-payment h2 { font-size:41px; }
+}
