@@ -1,0 +1,34 @@
+.family-hero .service-portrait>img { object-position:50% 20%; }
+.family-results { display:grid; grid-template-columns:repeat(3,1fr); border-top:1px solid var(--rule); }
+.family-results article { min-height:390px; display:flex; flex-direction:column; padding:30px 32px 34px 0; border-bottom:1px solid var(--rule); }
+.family-results article+article { border-left:1px solid var(--rule); padding-left:32px; }
+.family-results .label { color:var(--muted); font-size:9px; }
+.family-results h3 { font-size:31px; line-height:1.25; margin:36px 0 28px; }
+.family-results p:not(.label) { color:var(--muted); font-size:14px; line-height:1.85; margin-top:auto; }
+.family-source { color:#c4a79c; margin-top:25px; }
+.family-lawyers { display:grid; grid-template-columns:repeat(3,1fr); gap:42px; }
+.family-lawyer>a:first-child { display:block; }
+.family-lawyer img { width:100%; height:430px; display:block; object-fit:cover; object-position:50% 20%; filter:grayscale(1); }
+.family-lawyer>a:first-child:hover { opacity:.85; }
+.family-lawyer>.label { color:var(--muted); font-size:9px; display:block; margin-top:20px; }
+.family-lawyer h3 { font-size:35px; margin:17px 0 15px; }
+.family-lawyer .text-link { color:var(--red); font-size:12px; margin-top:14px; gap:25px; }
+@media(max-width:900px){
+ .family-results { grid-template-columns:1fr; }
+ .family-results article { min-height:0; padding:27px 0; }
+ .family-results article+article { border-left:0; padding-left:0; }
+ .family-results h3 { margin:23px 0 18px; }
+ .family-results p:not(.label) { margin-top:0; max-width:620px; }
+ .family-lawyers { gap:24px; }
+ .family-lawyer img { height:350px; }
+ .family-lawyer h3 { font-size:30px; }
+}
+@media(max-width:640px){
+ .family-lawyers { grid-template-columns:1fr; gap:45px; }
+ .family-lawyer { display:grid; grid-template-columns:120px 1fr; column-gap:20px; align-items:start; }
+ .family-lawyer>a:first-child { grid-row:1 / span 5; }
+ .family-lawyer img { height:170px; }
+ .family-lawyer>.label { margin-top:0; }
+ .family-lawyer h3 { font-size:29px; margin:12px 0; }
+ .family-lawyer .text-link { margin-top:10px; }
+}
