@@ -71,7 +71,9 @@
  .about-page-origin,.about-page-work,.about-page-evidence,.about-page-directions{padding:72px 0}
  .about-page-origin-grid{grid-template-columns:1fr;gap:50px}
  .about-page-origin strong{font-size:125px}
- .about-page-origin h2,.about-page-work h2,.about-page-directions h2,.about-page-evidence h2{font-size:46px}
+ .about-page-origin-grid>div{min-width:0}
+ .about-page-origin h2{font-size:clamp(31px,10vw,42px)}
+ .about-page-work h2,.about-page-directions h2,.about-page-evidence h2{font-size:46px}
  .about-page-origin p{font-size:15px}
  .about-page-work{padding-top:0}
  .about-page-work .shell{padding-top:60px}
