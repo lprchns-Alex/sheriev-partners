@@ -1,0 +1,50 @@
+/* Six service pages share the approved service template. */
+.additional-service-page .service-hero-copy{min-width:0}
+.additional-service-page .service-hero h1{font-size:clamp(54px,5.4vw,78px)}
+.additional-service-page .service-description{max-width:580px}
+.additional-service-page .service-portrait>img{object-position:50% 18%}
+.additional-service-page .service-documents h2 em{color:#c4a79c}
+.document-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-top:1px solid var(--rule)}
+.document-grid article{padding:30px 34px 12px 0;min-width:0}
+.document-grid article+article{border-left:1px solid var(--rule);padding-left:34px}
+.document-grid .label{font-size:10px;color:#c4a79c}
+.document-grid h3{font-size:32px;margin:28px 0 18px}
+.document-grid p{font-size:14px;line-height:1.8;color:var(--muted);max-width:340px}
+.additional-service-page .lawyer-count-2{grid-template-columns:repeat(2,minmax(0,1fr));max-width:900px}
+.additional-service-page .family-lawyer img{object-position:50% 15%}
+.additional-service-page .price-negotiated{font-size:27px;white-space:normal}
+.additional-service-page .prices-after-dark{padding-top:110px}
+.additional-service-page .prices-after-dark .personal-pricing{border-top:0;padding-top:0}
+.consultation-formats{border-top:1px solid var(--rule);padding-top:25px}
+.consultation-formats>.label{font-size:10px;color:var(--muted);margin-bottom:12px}
+.consultation-formats>a{display:block;position:relative;padding:26px 38px 26px 0;border-bottom:1px solid var(--rule)}
+.consultation-formats>a>.label{font-size:9px;color:#c4a79c}
+.consultation-formats h3{font-size:37px;margin:14px 0 8px}
+.consultation-formats p:not(.label){color:var(--muted);font-size:13px;line-height:1.8}
+.format-arrow{position:absolute;right:0;top:54px;font-size:26px;color:#c4a79c}
+.consultation-formats>a:hover h3{color:#c4a79c}
+@media(max-width:1100px){
+ .additional-service-page .service-hero h1{font-size:54px}
+ .document-grid article{padding-right:24px}
+ .document-grid article+article{padding-left:24px}
+ .document-grid h3{font-size:28px}
+}
+@media(max-width:800px){
+ .additional-service-page .service-hero-grid{grid-template-columns:1fr}
+ .additional-service-page .service-hero h1{font-size:clamp(40px,7vw,58px)}
+ .additional-service-page .service-portrait{max-width:460px;width:100%}
+ .additional-service-page .service-portrait>img{height:440px}
+ .document-grid{grid-template-columns:1fr}
+ .document-grid article,.document-grid article+article{padding:26px 0;border-left:0;border-bottom:1px solid var(--rule)}
+ .document-grid h3{margin:17px 0 12px}
+ .document-grid p{max-width:600px}
+}
+@media(max-width:640px){
+ .additional-service-page .service-hero h1{font-size:40px;line-height:1.09;letter-spacing:-.055em}
+ .additional-service-page .service-portrait>img{height:350px}
+ .additional-service-page .service-portrait figcaption a{font-size:27px}
+ .additional-service-page .lawyer-count-2{grid-template-columns:1fr}
+ .additional-service-page .prices-after-dark{padding-top:72px}
+ .additional-service-page .price-negotiated{font-size:25px}
+ .consultation-formats h3{font-size:34px}
+}
