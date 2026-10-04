@@ -237,3 +237,10 @@ html { scroll-padding-top: calc(var(--header-height) + 24px); }
   .header-messengers { gap: 2px; padding-left: 12px; }
   .header-messengers .social-icon { width: 30px; flex-basis: 30px; }
 }
+
+/* Keep the consultation number on one line at every viewport size. */
+.contact .contact-phone { font-size: clamp(28px, 3.5vw, 52px); line-height: 1.25; white-space: nowrap; letter-spacing: -.04em; }
+.contact .contact-phone > span { display: inline; }
+@media (max-width: 640px) {
+  .contact .contact-phone { font-size: clamp(27px, 8vw, 40px); }
+}
