@@ -109,4 +109,3 @@
   .media-arrow,.media-status { grid-column:2/4; justify-self:start; font-size:10px; }
   .media-source-note { grid-template-columns:1fr; gap:18px; }
 }
-

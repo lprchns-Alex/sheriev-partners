@@ -15,4 +15,3 @@
     count.textContent = `Показано: ${visible}`;
   }));
 })();
-
