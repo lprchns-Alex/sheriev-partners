@@ -1,0 +1,274 @@
+{
+  "404.html": [
+    "noindex для прототипа"
+  ],
+  "advokat-katelevskiy.html": [
+    "noindex для прототипа",
+    "title",
+    "description",
+    "canonical из карты адресов",
+    "Open Graph",
+    "Person",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "advokat-po-dtp.html": [
+    "noindex для прототипа",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "advokat-po-semejnym-sporam.html": [
+    "noindex для прототипа",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам",
+    "ссылка на алименты"
+  ],
+  "advokat-po-tyagkomu-vredu.html": [
+    "noindex для прототипа",
+    "description",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "advokat-po-ugolovnym-delam.html": [
+    "noindex для прототипа",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "arbitrazhnye-spory.html": [
+    "noindex для прототипа",
+    "title",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "bankrotstvo-i-subsidiarnaya-otvetstvennost.html": [
+    "noindex для прототипа",
+    "title",
+    "description",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "deberdeev-yunus.html": [
+    "noindex для прототипа",
+    "title",
+    "description",
+    "canonical из карты адресов",
+    "Open Graph",
+    "Person",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "fiz-licam.html": [
+    "noindex для прототипа",
+    "title",
+    "description",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "index.html": [
+    "noindex для прототипа",
+    "canonical из карты адресов",
+    "Open Graph",
+    "LegalService с общим @id",
+    "ссылка логотипа подвала"
+  ],
+  "konsultacii.html": [
+    "noindex для прототипа",
+    "H1 по ТЗ, сохранён курсив",
+    "H2 форматов для доступности",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "kontakty.html": [
+    "noindex для прототипа",
+    "title",
+    "H1 по ТЗ, сохранён курсив",
+    "canonical из карты адресов",
+    "Open Graph",
+    "LegalService с общим @id",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "media.html": [
+    "noindex для прототипа",
+    "title",
+    "H1 по ТЗ, сохранён курсив",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "nasha-comanda.html": [
+    "noindex для прототипа",
+    "title",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "nasledstvennye-spory.html": [
+    "noindex для прототипа",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "news-060225.html": [
+    "noindex для прототипа",
+    "title",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "nezakonnaya-bankovskaya-deyatelnost.html": [
+    "noindex для прототипа",
+    "description",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "novosti.html": [
+    "noindex для прототипа",
+    "title",
+    "H1 по ТЗ, сохранён курсив",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам",
+    "22 проверенные ссылки .html → .aspx",
+    "Недоступная ссылка о депортации снята, текст новости сохранён",
+    "Обе новости о взятке сохранены: содержимое отличается"
+  ],
+  "o-kollegii.html": [
+    "noindex для прототипа",
+    "title",
+    "H1 по ТЗ, сохранён курсив",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "politika-personalnyh-dannyh.html": [
+    "noindex для прототипа",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "pomoshh-po-ispolneniyu-resheniya-suda.html": [
+    "noindex для прототипа",
+    "title",
+    "description",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "publikacii.html": [
+    "noindex для прототипа",
+    "title",
+    "H1 по ТЗ, сохранён курсив",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "publikaciya-proverki-uebipk.html": [
+    "noindex для прототипа",
+    "title",
+    "description",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "razdel-imushhestva-suprugov.html": [
+    "noindex для прототипа",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "resultaty.html": [
+    "noindex для прототипа",
+    "title",
+    "H1 по ТЗ, сохранён курсив",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "rezultat-vosstanovlenie-bankovskogo-obsluzhivaniya.html": [
+    "noindex для прототипа",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "sheriev-ahmed-nazirovich.html": [
+    "noindex для прототипа",
+    "title",
+    "description",
+    "canonical из карты адресов",
+    "Open Graph",
+    "Person",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "snyatie-blokirovki-scheta.html": [
+    "noindex для прототипа",
+    "description",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "soglasie-na-obrabotku-personalnyh-dannyh.html": [
+    "noindex для прототипа",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "stoimost-uslug.html": [
+    "noindex для прототипа",
+    "title",
+    "description",
+    "H1 по ТЗ, сохранён курсив",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "ur-licam.html": [
+    "noindex для прототипа",
+    "title",
+    "description",
+    "H1 по ТЗ, сохранён курсив",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "urist-po-kripte.html": [
+    "noindex для прототипа",
+    "title",
+    "description",
+    "H1 по ТЗ, сохранён курсив",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "vosstanovlenie-sroka-sudebniy-prikaz.html": [
+    "noindex для прототипа",
+    "title",
+    "description",
+    "H1 по ТЗ, сохранён курсив",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "yriev-mihail.html": [
+    "noindex для прототипа",
+    "title",
+    "description",
+    "canonical из карты адресов",
+    "Open Graph",
+    "Person",
+    "BreadcrumbList по видимым крошкам"
+  ],
+  "zashhita-biznesa-pri-proverkax-uebipk.html": [
+    "noindex для прототипа",
+    "description",
+    "canonical из карты адресов",
+    "Open Graph",
+    "BreadcrumbList по видимым крошкам"
+  ]
+}

@@ -1,0 +1,43 @@
+/* Client-selected identity: compact header, full official name in the footer. */
+.brand-lockup { gap: 22px; }
+.brand-mark { display: flex; align-items: center; padding: 6px 22px 6px 0; line-height: 1; }
+.brand-mark img { display: block; width: 72px; height: auto; filter: brightness(0) invert(.94); }
+.brand-name { line-height: 1.2; }
+.brand-name > span { margin-top: 9px; }
+.footer-grid { grid-template-columns: 1fr 1fr 1.25fr; column-gap: 60px; row-gap: 42px; }
+.footer-grid > .footer-identity { grid-column: 1 / -1; display: flex; align-items: center; justify-content: space-between; gap: 32px; padding-bottom: 36px; border-bottom: 1px solid var(--rule); }
+.footer-brand { display: inline-flex; align-items: center; gap: 24px; max-width: 100%; }
+.footer-brand > img { display: block; flex: 0 0 86px; width: 86px; height: auto; filter: brightness(0) invert(.94); }
+.footer-brand-name { font: 500 17px/1.5 var(--font); letter-spacing: .01em; }
+.footer-brand-name > strong { display: block; font-size: 27px; font-weight: 600; line-height: 1.35; margin-top: 9px; }
+.footer-identity > .label { margin: 0; white-space: nowrap; }
+.footer-bottom { margin-top: 45px; }
+@media (max-width: 900px) {
+  .brand-lockup { gap: 18px; }
+  .brand-mark { padding-right: 18px; }
+  .brand-mark img { width: 60px; }
+  .footer-grid { column-gap: 30px; }
+  .footer-grid > .footer-identity { align-items: flex-start; flex-direction: column; gap: 20px; }
+  .footer-brand-name { font-size: 15px; }
+  .footer-brand-name > strong { font-size: 24px; }
+}
+@media (max-width: 640px) {
+  .brand-lockup { gap: 12px; }
+  .brand-mark { padding: 5px 12px 5px 0; }
+  .brand-mark img { width: 44px; }
+  .brand-name > span { margin-top: 6px; }
+  .footer-grid { grid-template-columns: 1fr 1fr; gap: 32px 24px; }
+  .footer-grid > .footer-identity { padding-bottom: 26px; }
+  .footer-brand { gap: 14px; }
+  .footer-brand > img { width: 56px; flex-basis: 56px; }
+  .footer-brand-name { font-size: clamp(9px, 2.65vw, 13px); letter-spacing: 0; }
+  .footer-brand-name > strong { font-size: clamp(14px, 4.1vw, 20px); margin-top: 7px; }
+  .footer-bottom { margin-top: 30px; }
+}
+@media (max-width: 360px) {
+  .brand-lockup { gap: 10px; }
+  .brand-mark { padding-right: 10px; }
+  .brand-mark img { width: 38px; }
+  .footer-brand { gap: 12px; }
+  .footer-brand > img { width: 48px; flex-basis: 48px; }
+}

@@ -6,6 +6,7 @@
 
 [Все варианты](https://lprchns-alex.github.io/sheriev-partners/)
 
+- [v.8.seo — SEO-правки всех страниц](https://lprchns-alex.github.io/sheriev-partners/v.8.seo/)
 - [v.7.final — правки клиента на основе v5.0](https://lprchns-alex.github.io/sheriev-partners/v.7.final/)
 - [v1.0 — первый прототип](https://lprchns-alex.github.io/sheriev-partners/v1.0/)
 - [v2.0 — с реальными портретами](https://lprchns-alex.github.io/sheriev-partners/v2.0/)

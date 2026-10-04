@@ -1,0 +1,95 @@
+.roster-heading { display:grid; grid-template-columns:1.3fr 1fr; align-items:end; gap:80px; padding:42px 0; }
+.roster-heading .label { color:var(--muted); font-size:10px; margin-bottom:24px; }
+.roster-heading h1 { font-size:clamp(66px,6.5vw,94px); line-height:1.04; }
+.roster-heading h1 em,.roster-chair h2 em,.roster-partners h2 em { color:#c4a79c; }
+.roster-heading>p { font-size:17px; color:var(--muted); max-width:400px; line-height:1.8; margin-bottom:8px; }
+.roster-chair { display:grid; grid-template-columns:.85fr 1.15fr; gap:80px; align-items:center; padding:32px 0 80px; }
+.roster-chair-photo img { display:block; width:100%; height:470px; object-fit:cover; object-position:50% 65%; filter:grayscale(1); }
+.roster-chair>div>.label { color:var(--muted); font-size:10px; margin-bottom:20px; }
+.roster-chair h2 { font-size:55px; }
+.roster-chair-description { color:var(--muted); font-size:16px; line-height:1.8; margin-top:25px; max-width:500px; }
+.roster-chair-meta { display:flex; gap:55px; margin:25px 0; padding:20px 0; border-block:1px solid var(--rule); font-size:21px; }
+.roster-chair-meta .label { color:var(--muted); font-size:9px; }
+.roster-chair .button { font-size:10px; }
+.roster-grid { display:grid; grid-template-columns:1fr 1fr; gap:0 60px; }
+.roster-card { display:grid; grid-template-columns:135px minmax(0,1fr); gap:25px; padding:30px 0; border-top:1px solid var(--rule); align-items:start; }
+.roster-photo { display:block; }
+.roster-photo img { display:block; width:100%; height:180px; object-fit:cover; object-position:50% 22%; filter:grayscale(1); }
+.roster-photo:hover { opacity:.85; }
+.roster-info { display:flex; flex-direction:column; align-items:start; }
+.roster-info h3 { font-size:30px; }
+.roster-given { display:block; font:400 15px/1.6 var(--font); letter-spacing:0; margin-top:3px; }
+.roster-specialty { color:var(--muted); font-size:14px; line-height:1.65; margin-top:13px; }
+.roster-experience { color:var(--muted); font-size:11px; line-height:1.7; margin-top:16px; }
+.roster-register { font-size:9px; color:var(--muted); margin-top:7px; letter-spacing:.07em; }
+.roster-info .text-link { font-size:12px; color:var(--red); gap:25px; margin-top:9px; }
+.roster-leader { grid-template-columns:190px minmax(0,1fr); gap:28px; }
+.roster-leader .roster-photo img { height:280px; }
+.roster-leader .roster-info>.label:first-child { font-size:9px; color:var(--muted); margin-bottom:15px; }
+.roster-leader h3 { font-size:35px; }
+.roster-advocates { padding-top:0; }
+.roster-advocates>.shell { padding-top:65px; border-top:1px solid var(--rule); }
+.roster-partners .roster-info .text-link { color:#c4a79c; }
+.roster-placeholder { height:180px; background:var(--surface); color:var(--paper); display:flex; align-items:center; justify-content:center; text-align:center; }
+.roster-placeholder .label { font-size:9px; opacity:.6; }
+.roster-staff-grid { display:grid; grid-template-columns:1fr 1fr; gap:0 60px; }
+.roster-staff { display:grid; grid-template-columns:80px minmax(0,1fr); gap:25px; padding:25px 0; border-top:1px solid var(--rule); }
+.roster-staff-photo img { width:80px; height:110px; display:block; object-fit:cover; object-position:50% 22%; filter:grayscale(1); }
+.roster-staff .roster-placeholder { height:110px; }
+.roster-staff .roster-placeholder .label { font-size:7px; }
+.roster-staff h3 { font-size:27px; }
+.roster-staff p { color:var(--muted); font-size:13px; margin-top:8px; }
+.roster-staff .text-link { font-size:11px; color:var(--red); padding-block:8px; gap:25px; }
+.roster-support { border-top:1px solid var(--rule); display:flex; gap:35px; align-items:center; padding-top:25px; margin-top:35px; font-size:13px; color:var(--muted); }
+.roster-support .label { font-size:10px; }
+@media(max-width:1100px){
+ .roster-grid,.roster-staff-grid { column-gap:35px; }
+ .roster-leader { grid-template-columns:150px minmax(0,1fr); gap:20px; }
+ .roster-leader h3 { font-size:29px; }
+ .roster-chair { gap:45px; }
+ .roster-chair h2 { font-size:47px; }
+ .roster-card { gap:20px; }
+}
+@media(max-width:900px){
+ .roster-heading { gap:35px; }
+ .roster-heading h1 { font-size:66px; }
+ .roster-heading>p { font-size:14px; }
+ .roster-chair { gap:35px; }
+ .roster-chair-photo img { height:450px; }
+ .roster-chair h2 { font-size:39px; }
+ .roster-chair-meta { gap:25px; font-size:18px; }
+ .roster-chair-description { font-size:14px; }
+ .roster-leader { display:block; }
+ .roster-leader .roster-photo { max-width:240px; margin-bottom:22px; }
+ .roster-grid:not(.roster-leaders) { grid-template-columns:1fr; }
+ .roster-card:not(.roster-leader) { grid-template-columns:150px minmax(0,1fr); gap:30px; }
+ .roster-card:not(.roster-leader) .roster-photo img { height:200px; }
+ .roster-staff h3 { font-size:23px; }
+ .roster-staff { gap:16px; }
+}
+@media(max-width:640px){
+ .roster-heading { grid-template-columns:1fr; gap:24px; padding:32px 0; }
+ .roster-heading h1 { font-size:60px; }
+ .roster-heading>p { font-size:15px; }
+ .roster-chair { display:flex; flex-direction:column; align-items:stretch; gap:28px; padding:15px 0 60px; }
+ .roster-chair-photo img { height:350px; }
+ .roster-chair h2 { font-size:41px; }
+ .roster-chair .button { width:100%; }
+ .roster-chair-meta { justify-content:space-between; gap:15px; }
+ .roster-grid,.roster-staff-grid { grid-template-columns:1fr; }
+ .roster-leader { display:grid; grid-template-columns:110px minmax(0,1fr); gap:20px; }
+ .roster-leader .roster-photo { margin:0; }
+ .roster-leader .roster-photo img { height:160px; }
+ .roster-card:not(.roster-leader) { grid-template-columns:110px minmax(0,1fr); gap:20px; }
+ .roster-card:not(.roster-leader) .roster-photo img,.roster-placeholder { height:150px; }
+ .roster-info h3 { font-size:25px; }
+ .roster-given { font-size:12px; line-height:1.5; margin-top:6px; }
+ .roster-specialty { font-size:12px; }
+ .roster-experience { font-size:10px; margin-top:12px; }
+ .roster-register { font-size:8px; }
+ .roster-leader .roster-info>.label:first-child { font-size:8px; margin-bottom:10px; }
+ .roster-info .text-link { font-size:11px; }
+ .roster-advocates>.shell { padding-top:48px; }
+ .roster-support { display:block; }
+ .roster-support p { margin-top:10px; }
+}

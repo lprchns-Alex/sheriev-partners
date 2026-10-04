@@ -1,0 +1,517 @@
+{
+  "assets": [
+    {
+      "file": "assets/ntv-008.jpg",
+      "jpeg": 27216,
+      "webp": 11328
+    },
+    {
+      "file": "assets/ntv-009.jpg",
+      "jpeg": 23868,
+      "webp": 8504
+    },
+    {
+      "file": "assets/sheriev.jpg",
+      "jpeg": 75162,
+      "webp": 27542
+    },
+    {
+      "file": "assets/deberdeev.jpg",
+      "jpeg": 84253,
+      "webp": 28830
+    },
+    {
+      "file": "assets/katelevskiy.jpg",
+      "jpeg": 103119,
+      "webp": 47562
+    },
+    {
+      "file": "assets/yuriev.jpg",
+      "jpeg": 92733,
+      "webp": 38546
+    },
+    {
+      "file": "assets/award.jpg",
+      "jpeg": 102624,
+      "webp": 42964
+    },
+    {
+      "file": "assets/ntv-007.jpg",
+      "jpeg": 25964,
+      "webp": 10700
+    },
+    {
+      "file": "assets/team/15-udina.jpg",
+      "jpeg": 26357,
+      "webp": 10908
+    },
+    {
+      "file": "assets/team/18-017.jpg",
+      "jpeg": 21296,
+      "webp": 11278
+    },
+    {
+      "file": "assets/team/20-ermolaeva.jpg",
+      "jpeg": 28789,
+      "webp": 12168
+    },
+    {
+      "file": "assets/team/05-009.jpg",
+      "jpeg": 30855,
+      "webp": 13386
+    },
+    {
+      "file": "assets/team/08-015.jpg",
+      "jpeg": 31323,
+      "webp": 13738
+    },
+    {
+      "file": "assets/team/17-008.jpg",
+      "jpeg": 27326,
+      "webp": 11770
+    },
+    {
+      "file": "assets/team/09-cykal.jpg",
+      "jpeg": 23380,
+      "webp": 8416
+    },
+    {
+      "file": "assets/team/03-006.jpg",
+      "jpeg": 25749,
+      "webp": 10182
+    },
+    {
+      "file": "assets/team/22-raev.jpg",
+      "jpeg": 28706,
+      "webp": 12008
+    },
+    {
+      "file": "assets/team/16-nidal.jpg",
+      "jpeg": 23741,
+      "webp": 8910
+    },
+    {
+      "file": "assets/team/12-turov.jpg",
+      "jpeg": 27523,
+      "webp": 11018
+    },
+    {
+      "file": "assets/team/13-gvozdeva.jpg",
+      "jpeg": 25123,
+      "webp": 9570
+    },
+    {
+      "file": "assets/team/06-016.jpg",
+      "jpeg": 31010,
+      "webp": 13934
+    },
+    {
+      "file": "assets/team/23-boycova.jpg",
+      "jpeg": 24659,
+      "webp": 9710
+    },
+    {
+      "file": "assets/team/11-isaev.jpg",
+      "jpeg": 29691,
+      "webp": 13144
+    },
+    {
+      "file": "assets/team/19-khamrakulov.jpg",
+      "jpeg": 26996,
+      "webp": 10842
+    },
+    {
+      "file": "assets/team/10-bondarenko.jpg",
+      "jpeg": 25873,
+      "webp": 10306
+    },
+    {
+      "file": "assets/team/04-007.jpg",
+      "jpeg": 23192,
+      "webp": 9012
+    }
+  ],
+  "pages": {
+    "rezultat-vosstanovlenie-bankovskogo-obsluzhivaniya.html": {
+      "webp_pictures": 1,
+      "lazy_added": 1,
+      "kept_jpeg": []
+    },
+    "nasledstvennye-spory 2.html": {
+      "webp_pictures": 2,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/sheriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "razdel-imushhestva-suprugov.html": {
+      "webp_pictures": 2,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/team/03-006.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "bankrotstvo-i-subsidiarnaya-otvetstvennost 2.html": {
+      "webp_pictures": 3,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/katelevskiy.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "index.html": {
+      "webp_pictures": 2,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/sheriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: hero-image"
+        },
+        {
+          "src": "assets/sheriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: person-photo"
+        },
+        {
+          "src": "assets/yuriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: person-photo"
+        },
+        {
+          "src": "assets/katelevskiy.jpg",
+          "reason": "Прямой дочерний селектор CSS: person-photo"
+        },
+        {
+          "src": "assets/deberdeev.jpg",
+          "reason": "Прямой дочерний селектор CSS: person-photo"
+        },
+        {
+          "src": "assets/ntv-009.jpg",
+          "reason": "Прямой дочерний селектор CSS: media-photo"
+        },
+        {
+          "src": "assets/award.jpg",
+          "reason": "Прямой дочерний селектор CSS: award-photo"
+        }
+      ]
+    },
+    "nasha-comanda.html": {
+      "webp_pictures": 22,
+      "lazy_added": 0,
+      "kept_jpeg": []
+    },
+    "advokat-po-dtp.html": {
+      "webp_pictures": 1,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/deberdeev.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "advokat-po-tyagkomu-vredu 2.html": {
+      "webp_pictures": 1,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/yuriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "news-060225.html": {
+      "webp_pictures": 2,
+      "lazy_added": 2,
+      "kept_jpeg": []
+    },
+    "o-kollegii.html": {
+      "webp_pictures": 1,
+      "lazy_added": 0,
+      "kept_jpeg": []
+    },
+    "media.html": {
+      "webp_pictures": 4,
+      "lazy_added": 1,
+      "kept_jpeg": []
+    },
+    "ur-licam.html": {
+      "webp_pictures": 0,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/katelevskiy.jpg",
+          "reason": "Прямой дочерний селектор CSS: audience-lawyer"
+        }
+      ]
+    },
+    "pomoshh-po-ispolneniyu-resheniya-suda.html": {
+      "webp_pictures": 1,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/team/03-006.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "ur-licam 2.html": {
+      "webp_pictures": 0,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/katelevskiy.jpg",
+          "reason": "Прямой дочерний селектор CSS: audience-lawyer"
+        }
+      ]
+    },
+    "sheriev-ahmed-nazirovich.html": {
+      "webp_pictures": 4,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/ntv-009.jpg",
+          "reason": "Прямой дочерний селектор CSS: media-photo"
+        }
+      ]
+    },
+    "snyatie-blokirovki-scheta.html": {
+      "webp_pictures": 3,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/deberdeev.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "arbitrazhnye-spory.html": {
+      "webp_pictures": 0,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/katelevskiy.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "yriev-mihail.html": {
+      "webp_pictures": 1,
+      "lazy_added": 0,
+      "kept_jpeg": []
+    },
+    "advokat-po-semejnym-sporam 2.html": {
+      "webp_pictures": 3,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/team/03-006.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "advokat-po-ugolovnym-delam.html": {
+      "webp_pictures": 0,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/yuriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        },
+        {
+          "src": "assets/yuriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-lawyer-photo"
+        },
+        {
+          "src": "assets/sheriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-lawyer-photo"
+        }
+      ]
+    },
+    "nezakonnaya-bankovskaya-deyatelnost.html": {
+      "webp_pictures": 1,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/sheriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "vosstanovlenie-sroka-sudebniy-prikaz.html": {
+      "webp_pictures": 1,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/team/03-006.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "advokat-po-dtp 2.html": {
+      "webp_pictures": 1,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/deberdeev.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "urist-po-kripte.html": {
+      "webp_pictures": 1,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/sheriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "index 2.html": {
+      "webp_pictures": 2,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/sheriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: hero-image"
+        },
+        {
+          "src": "assets/sheriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: person-photo"
+        },
+        {
+          "src": "assets/yuriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: person-photo"
+        },
+        {
+          "src": "assets/katelevskiy.jpg",
+          "reason": "Прямой дочерний селектор CSS: person-photo"
+        },
+        {
+          "src": "assets/deberdeev.jpg",
+          "reason": "Прямой дочерний селектор CSS: person-photo"
+        },
+        {
+          "src": "assets/ntv-009.jpg",
+          "reason": "Прямой дочерний селектор CSS: media-photo"
+        },
+        {
+          "src": "assets/award.jpg",
+          "reason": "Прямой дочерний селектор CSS: award-photo"
+        }
+      ]
+    },
+    "advokat-katelevskiy.html": {
+      "webp_pictures": 1,
+      "lazy_added": 0,
+      "kept_jpeg": []
+    },
+    "advokat-po-semejnym-sporam.html": {
+      "webp_pictures": 3,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/team/03-006.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "deberdeev-yunus 2.html": {
+      "webp_pictures": 1,
+      "lazy_added": 0,
+      "kept_jpeg": []
+    },
+    "fiz-licam.html": {
+      "webp_pictures": 0,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/yuriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: audience-lawyer"
+        }
+      ]
+    },
+    "publikaciya-proverki-uebipk.html": {
+      "webp_pictures": 1,
+      "lazy_added": 1,
+      "kept_jpeg": []
+    },
+    "zashhita-biznesa-pri-proverkax-uebipk.html": {
+      "webp_pictures": 3,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/sheriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "urist-po-kripte 2.html": {
+      "webp_pictures": 1,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/sheriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "fiz-licam 2.html": {
+      "webp_pictures": 0,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/yuriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: audience-lawyer"
+        }
+      ]
+    },
+    "bankrotstvo-i-subsidiarnaya-otvetstvennost.html": {
+      "webp_pictures": 3,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/katelevskiy.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "novosti.html": {
+      "webp_pictures": 1,
+      "lazy_added": 1,
+      "kept_jpeg": []
+    },
+    "advokat-po-tyagkomu-vredu.html": {
+      "webp_pictures": 1,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/yuriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    },
+    "deberdeev-yunus.html": {
+      "webp_pictures": 1,
+      "lazy_added": 0,
+      "kept_jpeg": []
+    },
+    "nasledstvennye-spory.html": {
+      "webp_pictures": 2,
+      "lazy_added": 0,
+      "kept_jpeg": [
+        {
+          "src": "assets/sheriev.jpg",
+          "reason": "Прямой дочерний селектор CSS: service-portrait"
+        }
+      ]
+    }
+  }
+}

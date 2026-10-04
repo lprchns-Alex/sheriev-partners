@@ -1,0 +1,87 @@
+.kontakty-page{background:var(--bg)}
+.contact-page-hero .shell{border-bottom:1px solid var(--rule)}
+.contact-page-hero-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(350px,.76fr);gap:8%;align-items:end;min-height:525px;padding:82px 0 73px}
+.contact-page-hero-grid>div{min-width:0}
+.contact-page-hero-grid .label{color:var(--muted);font-size:10px}
+.contact-page-hero h1{font-size:clamp(74px,8vw,112px);line-height:.98;letter-spacing:-.065em;margin:32px 0 32px}
+.contact-page-hero h1 em{color:#c4a79c}
+.contact-page-hero-grid>div:first-child>p:last-child{font-size:18px;line-height:1.6;max-width:510px;color:var(--muted)}
+.contact-page-call{border-left:1px solid var(--rule);padding:15px 0 8px 35px}
+.contact-page-call>a:first-of-type{display:block;font:400 clamp(45px,5vw,72px)/1.15 var(--display);letter-spacing:-.05em;margin:35px 0}
+.contact-page-call>a:first-of-type span{font:400 30px/1 var(--font);color:var(--bright)}
+.contact-page-call>a:hover{color:var(--bright)}
+.contact-page-mail{display:flex;align-items:center;justify-content:space-between;gap:20px;border-top:1px solid var(--rule);padding-top:23px;font-size:18px;overflow-wrap:anywhere}
+.contact-page-mail span{font-size:23px;flex-shrink:0}
+.contact-page-hero-foot{display:flex;justify-content:space-between;align-items:center;gap:20px;min-height:80px;color:var(--muted)}
+.contact-page-hero-foot .label{font-size:10px}
+.contact-page-hero-foot .text-link{color:var(--paper);font-size:12px}
+
+.contact-page-office,.contact-page-channels{padding:112px 0}
+.contact-page-office{padding-bottom:70px}
+.contact-page-section-head{display:grid;grid-template-columns:1fr 1.5fr;gap:50px;align-items:start}
+.contact-page-section-head>.label{font-size:10px;color:var(--muted);padding-top:12px}
+.contact-page-section-head h2{font-size:clamp(56px,5.5vw,76px);line-height:1.02}
+.contact-page-section-head h2 em{color:var(--red)}
+.contact-page-office-grid{display:grid;grid-template-columns:1fr 1fr;gap:12%;border-top:1px solid var(--rule);margin-top:55px;padding-top:35px}
+.contact-page-office-grid .label{color:var(--muted);font-size:10px}
+.contact-page-address address{font:400 clamp(38px,4vw,58px)/1.18 var(--display);letter-spacing:-.05em;font-style:normal;margin:25px 0 25px}
+.contact-page-address address span{color:var(--red)}
+.contact-page-address>p:not(.label){font-size:14px;line-height:1.75;color:var(--muted)}
+.contact-page-address .text-link{color:var(--red);margin-top:22px}
+.contact-page-schedule>div{display:flex;justify-content:space-between;gap:20px;padding:21px 0;border-bottom:1px solid var(--rule);font-size:14px}
+.contact-page-schedule>div:first-of-type{margin-top:22px;border-top:1px solid var(--rule)}
+.contact-page-schedule strong{font:400 21px/1.4 var(--display);white-space:nowrap;text-align:right}
+.contact-page-schedule small{font:400 11px/1.4 var(--font);color:var(--muted)}
+.contact-page-schedule>p:last-child{font-size:13px;color:var(--muted);line-height:1.8;margin-top:24px;max-width:500px}
+.contact-page-channels{padding-top:50px}
+.contact-page-channel-list{border-top:1px solid var(--rule);margin-top:52px}
+.contact-page-channel-list a{display:grid;grid-template-columns:200px minmax(0,1fr) 30px;gap:28px;align-items:center;min-height:112px;border-bottom:1px solid var(--rule);padding:17px 10px;transition:background-color 150ms ease,color 150ms ease}
+.contact-page-channel-list a:hover{background:#e8e1d8;color:var(--red)}
+.contact-page-channel-list .label{color:var(--muted);font-size:10px}
+.contact-page-channel-list a>span:nth-child(2){font:400 clamp(25px,3vw,39px)/1.2 var(--display);letter-spacing:-.03em;overflow-wrap:anywhere}
+.contact-page-channel-list b{font-size:25px;font-weight:400;color:var(--red);justify-self:end}
+
+.contact-page-secondary{padding:100px 0;border-top:1px solid var(--rule)}
+.contact-page-secondary-grid{display:grid;grid-template-columns:1fr 1fr;gap:80px;align-items:start}
+.contact-page-secondary .label{font-size:10px;color:var(--muted)}
+.contact-page-secondary h2{font-size:clamp(52px,5vw,70px);margin-top:22px}
+.contact-page-secondary address{font:400 30px/1.45 var(--display);font-style:normal}
+.contact-page-secondary p:not(.label){color:var(--muted);font-size:14px;margin-top:22px}
+.contact-page-secondary .text-link{color:#c4a79c;margin-top:19px}
+.kontakty-page .contact{border-top:1px solid var(--rule)}
+@media(max-width:900px){
+ .contact-page-hero-grid{grid-template-columns:1fr 1fr;gap:35px}
+ .contact-page-hero h1{font-size:72px}
+ .contact-page-call{padding-left:25px}
+ .contact-page-call>a:first-of-type{font-size:46px}
+ .contact-page-mail{font-size:15px}
+ .contact-page-office-grid{gap:50px}
+ .contact-page-section-head{grid-template-columns:1fr 2fr}
+ .contact-page-channel-list a{grid-template-columns:120px minmax(0,1fr) 25px}
+}
+@media(max-width:640px){
+ .contact-page-hero-grid{grid-template-columns:1fr;min-height:0;padding:55px 0 45px;gap:45px}
+ .contact-page-hero h1{font-size:clamp(60px,17vw,76px)}
+ .contact-page-hero-grid>div:first-child>p:last-child{font-size:16px}
+ .contact-page-call{padding-left:22px}
+ .contact-page-call>a:first-of-type{font-size:clamp(47px,13vw,62px);margin:22px 0}
+ .contact-page-mail{font-size:17px}
+ .contact-page-hero-foot{min-height:74px}
+ .contact-page-office,.contact-page-channels{padding:72px 0}
+ .contact-page-office{padding-bottom:34px}
+ .contact-page-section-head{display:block}
+ .contact-page-section-head h2{font-size:54px;margin-top:24px}
+ .contact-page-office-grid{grid-template-columns:1fr;gap:44px;margin-top:38px}
+ .contact-page-address address{font-size:clamp(35px,10vw,48px)}
+ .contact-page-schedule>div{font-size:13px}
+ .contact-page-channels{padding-top:40px}
+ .contact-page-channel-list{margin-top:38px}
+ .contact-page-channel-list a{grid-template-columns:1fr 24px;gap:10px;min-height:95px;padding:18px 0}
+ .contact-page-channel-list .label{grid-column:1;grid-row:1}
+ .contact-page-channel-list a>span:nth-child(2){grid-column:1;grid-row:2;font-size:clamp(23px,6.5vw,31px)}
+ .contact-page-channel-list b{grid-column:2;grid-row:1/3}
+ .contact-page-secondary{padding:72px 0}
+ .contact-page-secondary-grid{grid-template-columns:1fr;gap:30px}
+ .contact-page-secondary h2{font-size:52px}
+ .contact-page-secondary address{font-size:25px}
+}
