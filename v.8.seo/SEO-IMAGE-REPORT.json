@@ -137,32 +137,12 @@
       "lazy_added": 1,
       "kept_jpeg": []
     },
-    "nasledstvennye-spory 2.html": {
-      "webp_pictures": 2,
-      "lazy_added": 0,
-      "kept_jpeg": [
-        {
-          "src": "assets/sheriev.jpg",
-          "reason": "Прямой дочерний селектор CSS: service-portrait"
-        }
-      ]
-    },
     "razdel-imushhestva-suprugov.html": {
       "webp_pictures": 2,
       "lazy_added": 0,
       "kept_jpeg": [
         {
           "src": "assets/team/03-006.jpg",
-          "reason": "Прямой дочерний селектор CSS: service-portrait"
-        }
-      ]
-    },
-    "bankrotstvo-i-subsidiarnaya-otvetstvennost 2.html": {
-      "webp_pictures": 3,
-      "lazy_added": 0,
-      "kept_jpeg": [
-        {
-          "src": "assets/katelevskiy.jpg",
           "reason": "Прямой дочерний селектор CSS: service-portrait"
         }
       ]
@@ -216,16 +196,6 @@
         }
       ]
     },
-    "advokat-po-tyagkomu-vredu 2.html": {
-      "webp_pictures": 1,
-      "lazy_added": 0,
-      "kept_jpeg": [
-        {
-          "src": "assets/yuriev.jpg",
-          "reason": "Прямой дочерний селектор CSS: service-portrait"
-        }
-      ]
-    },
     "news-060225.html": {
       "webp_pictures": 2,
       "lazy_added": 2,
@@ -258,16 +228,6 @@
         {
           "src": "assets/team/03-006.jpg",
           "reason": "Прямой дочерний селектор CSS: service-portrait"
-        }
-      ]
-    },
-    "ur-licam 2.html": {
-      "webp_pictures": 0,
-      "lazy_added": 0,
-      "kept_jpeg": [
-        {
-          "src": "assets/katelevskiy.jpg",
-          "reason": "Прямой дочерний селектор CSS: audience-lawyer"
         }
       ]
     },
@@ -305,16 +265,6 @@
       "webp_pictures": 1,
       "lazy_added": 0,
       "kept_jpeg": []
-    },
-    "advokat-po-semejnym-sporam 2.html": {
-      "webp_pictures": 3,
-      "lazy_added": 0,
-      "kept_jpeg": [
-        {
-          "src": "assets/team/03-006.jpg",
-          "reason": "Прямой дочерний селектор CSS: service-portrait"
-        }
-      ]
     },
     "advokat-po-ugolovnym-delam.html": {
       "webp_pictures": 0,
@@ -354,16 +304,6 @@
         }
       ]
     },
-    "advokat-po-dtp 2.html": {
-      "webp_pictures": 1,
-      "lazy_added": 0,
-      "kept_jpeg": [
-        {
-          "src": "assets/deberdeev.jpg",
-          "reason": "Прямой дочерний селектор CSS: service-portrait"
-        }
-      ]
-    },
     "urist-po-kripte.html": {
       "webp_pictures": 1,
       "lazy_added": 0,
@@ -371,40 +311,6 @@
         {
           "src": "assets/sheriev.jpg",
           "reason": "Прямой дочерний селектор CSS: service-portrait"
-        }
-      ]
-    },
-    "index 2.html": {
-      "webp_pictures": 2,
-      "lazy_added": 0,
-      "kept_jpeg": [
-        {
-          "src": "assets/sheriev.jpg",
-          "reason": "Прямой дочерний селектор CSS: hero-image"
-        },
-        {
-          "src": "assets/sheriev.jpg",
-          "reason": "Прямой дочерний селектор CSS: person-photo"
-        },
-        {
-          "src": "assets/yuriev.jpg",
-          "reason": "Прямой дочерний селектор CSS: person-photo"
-        },
-        {
-          "src": "assets/katelevskiy.jpg",
-          "reason": "Прямой дочерний селектор CSS: person-photo"
-        },
-        {
-          "src": "assets/deberdeev.jpg",
-          "reason": "Прямой дочерний селектор CSS: person-photo"
-        },
-        {
-          "src": "assets/ntv-009.jpg",
-          "reason": "Прямой дочерний селектор CSS: media-photo"
-        },
-        {
-          "src": "assets/award.jpg",
-          "reason": "Прямой дочерний селектор CSS: award-photo"
         }
       ]
     },
@@ -422,11 +328,6 @@
           "reason": "Прямой дочерний селектор CSS: service-portrait"
         }
       ]
-    },
-    "deberdeev-yunus 2.html": {
-      "webp_pictures": 1,
-      "lazy_added": 0,
-      "kept_jpeg": []
     },
     "fiz-licam.html": {
       "webp_pictures": 0,
@@ -450,26 +351,6 @@
         {
           "src": "assets/sheriev.jpg",
           "reason": "Прямой дочерний селектор CSS: service-portrait"
-        }
-      ]
-    },
-    "urist-po-kripte 2.html": {
-      "webp_pictures": 1,
-      "lazy_added": 0,
-      "kept_jpeg": [
-        {
-          "src": "assets/sheriev.jpg",
-          "reason": "Прямой дочерний селектор CSS: service-portrait"
-        }
-      ]
-    },
-    "fiz-licam 2.html": {
-      "webp_pictures": 0,
-      "lazy_added": 0,
-      "kept_jpeg": [
-        {
-          "src": "assets/yuriev.jpg",
-          "reason": "Прямой дочерний селектор CSS: audience-lawyer"
         }
       ]
     },
