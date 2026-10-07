@@ -66,3 +66,7 @@
   .extension-directory-card { grid-template-columns:72px minmax(0,1fr); gap:20px; }
   .extension-directory-logo img { max-width:72px; }
 }
+
+/* Keep inline contact numbers readable as a single unit. */
+.migrated-copy a[href^="tel:"] { display:inline-block; white-space:nowrap; }
+.migrated-copy h2, .migrated-copy h3 { hyphens:none; }
