@@ -2,7 +2,7 @@
 .additional-service-page .service-hero-copy{min-width:0}
 .additional-service-page .service-hero h1{font-size:clamp(54px,5.4vw,78px)}
 .additional-service-page .service-description{max-width:580px}
-.additional-service-page .service-portrait>img{object-position:50% 18%}
+.additional-service-page .service-portrait img{object-position:50% 18%}
 .additional-service-page .service-documents h2 em{color:#c4a79c}
 .document-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-top:1px solid var(--rule)}
 .document-grid article{padding:30px 34px 12px 0;min-width:0}
@@ -33,7 +33,7 @@
  .additional-service-page .service-hero-grid{grid-template-columns:1fr}
  .additional-service-page .service-hero h1{font-size:clamp(40px,7vw,58px)}
  .additional-service-page .service-portrait{max-width:460px;width:100%}
- .additional-service-page .service-portrait>img{height:440px}
+ .additional-service-page .service-portrait img{height:440px}
  .document-grid{grid-template-columns:1fr}
  .document-grid article,.document-grid article+article{padding:26px 0;border-left:0;border-bottom:1px solid var(--rule)}
  .document-grid h3{margin:17px 0 12px}
@@ -41,7 +41,7 @@
 }
 @media(max-width:640px){
  .additional-service-page .service-hero h1{font-size:40px;line-height:1.09;letter-spacing:-.055em}
- .additional-service-page .service-portrait>img{height:350px}
+ .additional-service-page .service-portrait img{height:350px}
  .additional-service-page .service-portrait figcaption a{font-size:27px}
  .additional-service-page .lawyer-count-2{grid-template-columns:1fr}
  .additional-service-page .prices-after-dark{padding-top:72px}

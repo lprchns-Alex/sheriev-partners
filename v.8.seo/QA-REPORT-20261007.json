@@ -1,0 +1,266 @@
+{
+  "date": "2026-10-07",
+  "pages": 198,
+  "viewports": [
+    320,
+    375,
+    768,
+    1440
+  ],
+  "layoutChecks": 792,
+  "layoutFindings": [],
+  "expandedPages": 77,
+  "openedDisclosures": 640,
+  "expandedFindings": [],
+  "interactions": [
+    {
+      "count": "Показано: 13",
+      "expected": 13,
+      "filter": "all",
+      "page": "/resultaty.html",
+      "pressed": "true",
+      "visible": 13
+    },
+    {
+      "count": "Показано: 4",
+      "expected": 4,
+      "filter": "criminal",
+      "page": "/resultaty.html",
+      "pressed": "true",
+      "visible": 4
+    },
+    {
+      "count": "Показано: 2",
+      "expected": 2,
+      "filter": "family",
+      "page": "/resultaty.html",
+      "pressed": "true",
+      "visible": 2
+    },
+    {
+      "count": "Показано: 2",
+      "expected": 2,
+      "filter": "civil",
+      "page": "/resultaty.html",
+      "pressed": "true",
+      "visible": 2
+    },
+    {
+      "count": "Показано: 3",
+      "expected": 3,
+      "filter": "labor",
+      "page": "/resultaty.html",
+      "pressed": "true",
+      "visible": 3
+    },
+    {
+      "count": "Показано: 2",
+      "expected": 2,
+      "filter": "business",
+      "page": "/resultaty.html",
+      "pressed": "true",
+      "visible": 2
+    },
+    {
+      "count": "Показано: 22",
+      "expected": 22,
+      "filter": "all",
+      "page": "/media.html",
+      "pressed": "true",
+      "visible": 22
+    },
+    {
+      "count": "Показано: 11",
+      "expected": 11,
+      "filter": "tv",
+      "page": "/media.html",
+      "pressed": "true",
+      "visible": 11
+    },
+    {
+      "count": "Показано: 2",
+      "expected": 2,
+      "filter": "radio",
+      "page": "/media.html",
+      "pressed": "true",
+      "visible": 2
+    },
+    {
+      "count": "Показано: 7",
+      "expected": 7,
+      "filter": "press",
+      "page": "/media.html",
+      "pressed": "true",
+      "visible": 7
+    },
+    {
+      "count": "Показано: 2",
+      "expected": 2,
+      "filter": "digital",
+      "page": "/media.html",
+      "pressed": "true",
+      "visible": 2
+    },
+    {
+      "count": "Показано: 12 из 86",
+      "expected": 12,
+      "page": "publikacii",
+      "topic": "all",
+      "visible": 12
+    },
+    {
+      "count": "Показано: 12 из 24",
+      "expected": 12,
+      "page": "publikacii",
+      "topic": "business",
+      "visible": 12
+    },
+    {
+      "count": "Показано: 12 из 18",
+      "expected": 12,
+      "page": "publikacii",
+      "topic": "criminal",
+      "visible": 12
+    },
+    {
+      "count": "Показано: 12 из 22",
+      "expected": 12,
+      "page": "publikacii",
+      "topic": "people",
+      "visible": 12
+    },
+    {
+      "count": "Показано: 8 из 8",
+      "expected": 8,
+      "page": "publikacii",
+      "topic": "advocacy",
+      "visible": 8
+    },
+    {
+      "count": "Показано: 12 из 14",
+      "expected": 12,
+      "page": "publikacii",
+      "topic": "other",
+      "visible": 12
+    },
+    {
+      "action": "more",
+      "expected": 24,
+      "page": "publikacii",
+      "visible": 24
+    },
+    {
+      "action": "empty",
+      "expected": 0,
+      "page": "publikacii",
+      "status": "По запросу ничего не найдено",
+      "visible": 0
+    },
+    {
+      "expected": 12,
+      "page": "novosti",
+      "status": "Найдено: 75 · показано: 12",
+      "visible": 12,
+      "year": ""
+    },
+    {
+      "expected": 3,
+      "page": "novosti",
+      "status": "Найдено: 3 · показано: 3",
+      "visible": 3,
+      "year": "2026"
+    },
+    {
+      "expected": 12,
+      "page": "novosti",
+      "status": "Найдено: 16 · показано: 12",
+      "visible": 12,
+      "year": "2025"
+    },
+    {
+      "expected": 3,
+      "page": "novosti",
+      "status": "Найдено: 3 · показано: 3",
+      "visible": 3,
+      "year": "2024"
+    },
+    {
+      "expected": 3,
+      "page": "novosti",
+      "status": "Найдено: 3 · показано: 3",
+      "visible": 3,
+      "year": "2023"
+    },
+    {
+      "expected": 10,
+      "page": "novosti",
+      "status": "Найдено: 10 · показано: 10",
+      "visible": 10,
+      "year": "2022"
+    },
+    {
+      "expected": 12,
+      "page": "novosti",
+      "status": "Найдено: 12 · показано: 12",
+      "visible": 12,
+      "year": "2021"
+    },
+    {
+      "expected": 11,
+      "page": "novosti",
+      "status": "Найдено: 11 · показано: 11",
+      "visible": 11,
+      "year": "2020"
+    },
+    {
+      "expected": 12,
+      "page": "novosti",
+      "status": "Найдено: 17 · показано: 12",
+      "visible": 12,
+      "year": "undated"
+    },
+    {
+      "action": "more",
+      "expected": 24,
+      "page": "novosti",
+      "visible": 24
+    },
+    {
+      "action": "empty",
+      "emptyShown": true,
+      "expected": 0,
+      "page": "novosti",
+      "visible": 0
+    },
+    {
+      "action": "open",
+      "page": "menu",
+      "pass": true
+    },
+    {
+      "action": "escape",
+      "page": "menu",
+      "pass": true
+    },
+    {
+      "action": "short-phone",
+      "page": "form",
+      "pass": true,
+      "status": ""
+    },
+    {
+      "action": "prototype-submit",
+      "page": "form",
+      "pass": true,
+      "status": "Это прототип: обращение не отправлено. Для связи позвоните по номеру 8 (925) 502-40-09."
+    },
+    {
+      "headerBottom": 70,
+      "page": "anchors",
+      "pass": true,
+      "targetTop": 93.671875,
+      "width": 1440
+    }
+  ],
+  "profileRegisterGapPx": 28
+}

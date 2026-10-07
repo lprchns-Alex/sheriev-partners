@@ -1,5 +1,5 @@
 .arbitration-page .service-hero h1 { font-size: clamp(58px, 5.35vw, 77px); }
-.arbitration-page .service-portrait > img { object-position: 50% 0; }
+.arbitration-page .service-portrait  img { object-position: 50% 0; }
 .arbitration-page .service-portrait figcaption a { font-size: 27px; }
 .arbitration-directions { display: grid; grid-template-columns: 1fr 1fr; gap: 0 65px; list-style: none; padding: 0; margin: 0; }
 .arbitration-directions li { display: grid; grid-template-columns: 24px 1fr; gap: 20px; align-items: baseline; padding: 18px 0; border-bottom: 1px solid var(--rule); font-size: 14px; line-height: 1.65; }
@@ -18,7 +18,7 @@
   .arbitration-page .service-hero-grid { grid-template-columns: 1fr; }
   .arbitration-page .service-hero h1 { font-size: 72px; }
   .arbitration-page .service-portrait { display: grid; grid-template-columns: 230px 1fr; align-items: center; }
-  .arbitration-page .service-portrait > img { height: 270px; }
+  .arbitration-page .service-portrait  img { height: 270px; }
   .arbitration-page .service-section-intro h2 { font-size: 34px; }
   .arbitration-directions { column-gap: 30px; }
 }

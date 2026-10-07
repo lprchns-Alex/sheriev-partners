@@ -1,4 +1,4 @@
-.family-hero .service-portrait>img { object-position:50% 20%; }
+.family-hero .service-portrait img { object-position:50% 20%; }
 .family-results { display:grid; grid-template-columns:repeat(3,1fr); border-top:1px solid var(--rule); }
 .family-results article { min-height:390px; display:flex; flex-direction:column; padding:30px 32px 34px 0; border-bottom:1px solid var(--rule); }
 .family-results article+article { border-left:1px solid var(--rule); padding-left:32px; }
@@ -31,4 +31,10 @@
  .family-lawyer>.label { margin-top:0; }
  .family-lawyer h3 { font-size:29px; margin:12px 0; }
  .family-lawyer .text-link { margin-top:10px; }
+}
+
+@media(max-width:640px) {
+  .family-lawyers { grid-template-columns:minmax(0,1fr); }
+  .family-lawyer { grid-template-columns:100px minmax(0,1fr); }
+  .family-lawyer > * { min-width:0; }
 }

@@ -10,7 +10,7 @@
 .service-actions .button { font-size: 10px; padding: 17px 24px; }
 .service-phone { font-size: 19px; white-space: nowrap; }
 .service-portrait { margin: 0; background: var(--surface); }
-.service-portrait > img { display: block; width: 100%; height: 430px; object-fit: cover; object-position: 50% 0; filter: grayscale(1); }
+.service-portrait  img { display: block; width: 100%; height: 430px; object-fit: cover; object-position: 50% 0; filter: grayscale(1); }
 .service-portrait figcaption { padding: 23px 26px; }
 .service-portrait .label { font-size: 9px; color: var(--muted); }
 .service-portrait figcaption a { display: flex; gap: 12px; align-items: center; justify-content: space-between; font: 400 29px/1.4 var(--display); margin: 10px 0 12px; letter-spacing: -.035em; }
@@ -77,7 +77,7 @@
 .verdict-foot span:last-child { font-size: 24px; color: #c4a79c; }
 .service-lawyer-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 55px; }
 .service-lawyer { display: grid; grid-template-columns: .85fr 1fr; gap: 28px; }
-.service-lawyer-photo > img { width: 100%; height: 330px; display: block; object-fit: cover; object-position: 50% 22%; filter: grayscale(1); }
+.service-lawyer-photo  img { width: 100%; height: 330px; display: block; object-fit: cover; object-position: 50% 22%; filter: grayscale(1); }
 .service-lawyer-photo:hover { opacity: .85; }
 .service-lawyer > div { display: flex; flex-direction: column; align-items: start; }
 .service-lawyer .label { font-size: 9px; color: var(--muted); }
@@ -103,14 +103,14 @@
 @media (max-width: 1100px) {
   .service-hero-grid { gap: 45px; grid-template-columns: 1.5fr 1fr; }
   .service-hero h1 { font-size: 68px; }
-  .service-portrait > img { height: 420px; }
+  .service-portrait  img { height: 420px; }
   .service-portrait figcaption { padding: 20px; }
   .service-portrait figcaption a { font-size: 25px; }
   .service-two-col, .service-result-grid { gap: 45px; }
   .service-section-intro h2 { font-size: 43px; }
   .service-lawyer-grid { gap: 35px; }
   .service-lawyer { display: block; }
-  .service-lawyer-photo > img { height: 360px; }
+  .service-lawyer-photo  img { height: 360px; }
   .service-lawyer > div { padding-top: 23px; }
   .service-lawyer h3 br { display: none; }
   .service-lawyer h3 br::after { content: ' '; }
@@ -125,7 +125,7 @@
   .service-kicker { font-size: 9px; }
   .service-lead { font-size: 18px; }
   .service-description { font-size: 14px; }
-  .service-portrait > img { height: 370px; }
+  .service-portrait  img { height: 370px; }
   .service-portrait figcaption a { font-size: 23px; }
   .service-jump { gap: 10px 25px; }
   .service-jump > .label { width: 100%; }
@@ -152,7 +152,7 @@
   .service-actions { gap: 18px; margin-top: 25px; }
   .service-actions .button { width: 100%; }
   .service-phone { font-size: 24px; }
-  .service-portrait > img { height: 330px; }
+  .service-portrait  img { height: 330px; }
   .service-portrait figcaption { padding: 22px; }
   .service-portrait figcaption a { font-size: 29px; }
   .service-jump { column-gap: 22px; padding-bottom: 28px; }
@@ -177,7 +177,7 @@
   .result-verdict h3 { font-size: 37px; margin-top: 27px; }
   .verdict-foot { margin-top: 30px; }
   .service-lawyer-grid { gap: 40px; }
-  .service-lawyer-photo > img { height: 360px; }
+  .service-lawyer-photo  img { height: 360px; }
   .service-lawyer h3 { font-size: 34px; }
   .service-team-link { justify-content: start; }
   .service-prices, .service-questions { padding-top: 0; }

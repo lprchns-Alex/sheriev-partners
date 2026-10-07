@@ -54,3 +54,15 @@
 .completion-page .extension-directory-link{font-size:28px;line-height:1.3}
 .migrated-copy .migrated-image img{filter:grayscale(1)}
 @media(max-width:640px){.completion-page .extension-directory-link{font-size:24px}}
+
+/* Preserve space for disclosure controls alongside long SEO headings. */
+.migrated-disclosure summary h2 { min-width:0; }
+.migrated-disclosure summary > span { flex:0 0 24px; line-height:1; text-align:center; }
+.migrated-disclosure[open] summary > span { transform:none; font-size:0; }
+.migrated-disclosure[open] summary > span::after { content:'−'; font-size:24px; }
+.completion-page .profile-hero-grid > * { min-width:0; }
+.completion-page .profile-hero-grid.no-portrait { grid-template-columns:minmax(0,1fr); }
+@media(max-width:640px) {
+  .extension-directory-card { grid-template-columns:72px minmax(0,1fr); gap:20px; }
+  .extension-directory-logo img { max-width:72px; }
+}
