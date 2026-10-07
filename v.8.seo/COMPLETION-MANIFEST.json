@@ -1,0 +1,986 @@
+[
+  {
+    "file": "vzyskanie-dolgov.html",
+    "url": "https://advokat-sheriev.ru/vzyskanie-dolgov.aspx",
+    "kind": "service",
+    "heading": "Взыскание долгов физических лиц"
+  },
+  {
+    "file": "spory-o-detyah.html",
+    "url": "https://advokat-sheriev.ru/spory-o-detyah.aspx",
+    "kind": "service",
+    "heading": "Адвокат по защите прав детей"
+  },
+  {
+    "file": "iski-o-rastorzhenii-braka.html",
+    "url": "https://advokat-sheriev.ru/iski-o-rastorzhenii-braka.aspx",
+    "kind": "service",
+    "heading": "Адвокаты по расторжению брака"
+  },
+  {
+    "file": "soprovozhdenie-sdelok-s-nedvizhimostyu.html",
+    "url": "https://advokat-sheriev.ru/soprovozhdenie-sdelok-s-nedvizhimostyu.aspx",
+    "kind": "service",
+    "heading": "Сопровождение сделок с недвижимостью"
+  },
+  {
+    "file": "spory-s-zemlej.html",
+    "url": "https://advokat-sheriev.ru/spory-s-zemlej.aspx",
+    "kind": "service",
+    "heading": "Юрист по земельным вопросам"
+  },
+  {
+    "file": "zhilishhnye-spory.html",
+    "url": "https://advokat-sheriev.ru/zhilishhnye-spory.aspx",
+    "kind": "service",
+    "heading": "Адвокаты по жилищным делам"
+  },
+  {
+    "file": "advokat-po-dolevomu-stroitelstvu.html",
+    "url": "https://advokat-sheriev.ru/advokat-po-dolevomu-stroitelstvu.aspx",
+    "kind": "service",
+    "heading": "Юристы по долевому строительству"
+  },
+  {
+    "file": "advokat-podelam-dtp.html",
+    "url": "https://advokat-sheriev.ru/advokat-podelam-dtp.aspx",
+    "kind": "service",
+    "heading": "Юридическая помощь по делам с ДТП"
+  },
+  {
+    "file": "zashhita-avtorskogo-prava.html",
+    "url": "https://advokat-sheriev.ru/zashhita-avtorskogo-prava.aspx",
+    "kind": "service",
+    "heading": "Защита авторских прав"
+  },
+  {
+    "file": "zashhita-chesti-i-dostoinstva.html",
+    "url": "https://advokat-sheriev.ru/zashhita-chesti-i-dostoinstva.aspx",
+    "kind": "service",
+    "heading": "Защита чести и достоинства гражданина"
+  },
+  {
+    "file": "narusheniya-migracionnogo-zakonodatelstva.html",
+    "url": "https://advokat-sheriev.ru/narusheniya-migracionnogo-zakonodatelstva.aspx",
+    "kind": "service",
+    "heading": "Миграционные адвокаты и юристы"
+  },
+  {
+    "file": "voenniy-yurist.html",
+    "url": "https://advokat-sheriev.ru/voenniy-yurist.aspx",
+    "kind": "service",
+    "heading": "Юридическая помощь военнослужащим"
+  },
+  {
+    "file": "medicinskiy-advokat.html",
+    "url": "https://advokat-sheriev.ru/medicinskiy-advokat.aspx",
+    "kind": "service",
+    "heading": "Юридическая помощь по медицинским делам"
+  },
+  {
+    "file": "narusheniya-v-oblasti-dorozhnogo-dvizheniya.html",
+    "url": "https://advokat-sheriev.ru/narusheniya-v-oblasti-dorozhnogo-dvizheniya.aspx",
+    "kind": "service",
+    "heading": "Адвокат по административным делам и нарушениям ПДД"
+  },
+  {
+    "file": "zashhita-interesov-v-evropejskom-sude-espch.html",
+    "url": "https://advokat-sheriev.ru/zashhita-interesov-v-evropejskom-sude-espch.aspx",
+    "kind": "service",
+    "heading": "Защита прав европейский суд"
+  },
+  {
+    "file": "spory-so-straxovymi-kompaniyami.html",
+    "url": "https://advokat-sheriev.ru/spory-so-straxovymi-kompaniyami.aspx",
+    "kind": "service",
+    "heading": "Адвокаты по страховым спорам"
+  },
+  {
+    "file": "zashhita-prav-potrebitelej.html",
+    "url": "https://advokat-sheriev.ru/zashhita-prav-potrebitelej.aspx",
+    "kind": "service",
+    "heading": "Адвокаты по защите прав потребителей"
+  },
+  {
+    "file": "trudovye-spory.html",
+    "url": "https://advokat-sheriev.ru/trudovye-spory.aspx",
+    "kind": "service",
+    "heading": "Адвокат по трудовым спорам"
+  },
+  {
+    "file": "spory-s-bankami-ipoteka.html",
+    "url": "https://advokat-sheriev.ru/spory-s-bankami-ipoteka.aspx",
+    "kind": "service",
+    "heading": "Споры с банками"
+  },
+  {
+    "file": "sostavlenie-iskovogo-zayavlenia-galob-pretenziy.html",
+    "url": "https://advokat-sheriev.ru/sostavlenie-iskovogo-zayavlenia-galob-pretenziy.aspx",
+    "kind": "service",
+    "heading": "Составление процессульных документов"
+  },
+  {
+    "file": "vzyskanie-dolgov-organizacii.html",
+    "url": "https://advokat-sheriev.ru/vzyskanie-dolgov-organizacii.aspx",
+    "kind": "service",
+    "heading": "Юристы по взысканию долгов"
+  },
+  {
+    "file": "dogovornye-spory.html",
+    "url": "https://advokat-sheriev.ru/dogovornye-spory.aspx",
+    "kind": "service",
+    "heading": "Адвокаты по спорам с договорами"
+  },
+  {
+    "file": "urist-po-arende.html",
+    "url": "https://advokat-sheriev.ru/urist-po-arende.aspx",
+    "kind": "service",
+    "heading": "Адвокат по аренде и арендным спорам"
+  },
+  {
+    "file": "pomosh-po-ispolnitelnomu-proizvodstvu.html",
+    "url": "https://advokat-sheriev.ru/pomosh-po-ispolnitelnomu-proizvodstvu.aspx",
+    "kind": "service",
+    "heading": "Помощь юридическим лицам по исполнительному производству"
+  },
+  {
+    "file": "otsrochka-ispolneniya-resheniya-suda.html",
+    "url": "https://advokat-sheriev.ru/otsrochka-ispolneniya-resheniya-suda.aspx",
+    "kind": "service",
+    "heading": "Отсрочка исполнения решения суда, отсрочка вступления решения суда в законную силу"
+  },
+  {
+    "file": "zashita-biznesa.html",
+    "url": "https://advokat-sheriev.ru/zashita-biznesa.aspx",
+    "kind": "service",
+    "heading": "Правовая защита бизнеса адвокатом"
+  },
+  {
+    "file": "osparivanie-reshenij-nalogovyx-organov.html",
+    "url": "https://advokat-sheriev.ru/osparivanie-reshenij-nalogovyx-organov.aspx",
+    "kind": "service",
+    "heading": "Налоговый юрист - проверки"
+  },
+  {
+    "file": "osparivanie-dejstvij-i-reshenij-administracii.html",
+    "url": "https://advokat-sheriev.ru/osparivanie-dejstvij-i-reshenij-administracii.aspx",
+    "kind": "service",
+    "heading": "Оспаривание действий и решений госорганов"
+  },
+  {
+    "file": "podgotovka-korporativnyx-dokumentov.html",
+    "url": "https://advokat-sheriev.ru/podgotovka-korporativnyx-dokumentov.aspx",
+    "kind": "service",
+    "heading": "Подготовка корпоративных документов"
+  },
+  {
+    "file": "soprovozhdenie-sdelok.html",
+    "url": "https://advokat-sheriev.ru/soprovozhdenie-sdelok.aspx",
+    "kind": "service",
+    "heading": "Адвокат для сопровождения сделок"
+  },
+  {
+    "file": "pravovoe-zaklyuchenie-audit-dokumentov.html",
+    "url": "https://advokat-sheriev.ru/pravovoe-zaklyuchenie-audit-dokumentov.aspx",
+    "kind": "service",
+    "heading": "Правовое заключение и анализ документов"
+  },
+  {
+    "file": "abonentskoe-yuridicheskoe-soprovozhdenie.html",
+    "url": "https://advokat-sheriev.ru/abonentskoe-yuridicheskoe-soprovozhdenie.aspx",
+    "kind": "service",
+    "heading": "Комплексное юридическое сопровождение"
+  },
+  {
+    "file": "zashhita-delovoj-reputacii.html",
+    "url": "https://advokat-sheriev.ru/zashhita-delovoj-reputacii.aspx",
+    "kind": "service",
+    "heading": "Защита деловой репутации юридического лица"
+  },
+  {
+    "file": "zashhita-tovarnogo-znaka-brenda.html",
+    "url": "https://advokat-sheriev.ru/zashhita-tovarnogo-znaka-brenda.aspx",
+    "kind": "service",
+    "heading": "Юридические услуги по защите бренда, фирменного наименования, товарного знака"
+  },
+  {
+    "file": "osparivanie-kadastrovoj-stoimosti.html",
+    "url": "https://advokat-sheriev.ru/osparivanie-kadastrovoj-stoimosti.aspx",
+    "kind": "service",
+    "heading": "Оспаривание кадастровой стоимости недвижимости"
+  },
+  {
+    "file": "smirnov-dmitriy.html",
+    "url": "https://advokat-sheriev.ru/smirnov-dmitriy.aspx",
+    "kind": "profile",
+    "heading": "Симонов Дмитрий Александрович"
+  },
+  {
+    "file": "hamrakulov-shuhrat.html",
+    "url": "https://advokat-sheriev.ru/hamrakulov-shuhrat.aspx",
+    "kind": "profile",
+    "heading": "Хамракулов Шухрат Толибович"
+  },
+  {
+    "file": "nazarova-natalya.html",
+    "url": "https://advokat-sheriev.ru/nazarova-natalya.aspx",
+    "kind": "profile",
+    "heading": "Назарова Наталья Викторовна"
+  },
+  {
+    "file": "gudrin-andrey.html",
+    "url": "https://advokat-sheriev.ru/gudrin-andrey.aspx",
+    "kind": "profile",
+    "heading": "Гурдин Андрей Владимирович"
+  },
+  {
+    "file": "simaranova-evgenia.html",
+    "url": "https://advokat-sheriev.ru/simaranova-evgenia.aspx",
+    "kind": "profile",
+    "heading": "Симаранова Евгения Владиславовна"
+  },
+  {
+    "file": "cykal-dmitriy.html",
+    "url": "https://advokat-sheriev.ru/cykal-dmitriy.aspx",
+    "kind": "profile",
+    "heading": "Цыкал Дмитрий Юрьевич"
+  },
+  {
+    "file": "bondarenko.html",
+    "url": "https://advokat-sheriev.ru/bondarenko.aspx",
+    "kind": "profile",
+    "heading": "Бондаренко Сергей Владимирович"
+  },
+  {
+    "file": "advokat-isaev.html",
+    "url": "https://advokat-sheriev.ru/advokat-isaev.aspx",
+    "kind": "profile",
+    "heading": "Исаев Абильфез Идрисович"
+  },
+  {
+    "file": "advokat-turov.html",
+    "url": "https://advokat-sheriev.ru/advokat-turov.aspx",
+    "kind": "profile",
+    "heading": "Туров Вадим Викторович"
+  },
+  {
+    "file": "advokat-gvozdeva.html",
+    "url": "https://advokat-sheriev.ru/advokat-gvozdeva.aspx",
+    "kind": "profile",
+    "heading": "Гвоздева Светлана Валерьевна"
+  },
+  {
+    "file": "sadaev-muslim.html",
+    "url": "https://advokat-sheriev.ru/sadaev-muslim.aspx",
+    "kind": "profile",
+    "heading": "Садаев Муслим Ахмадович"
+  },
+  {
+    "file": "udina-svetlana.html",
+    "url": "https://advokat-sheriev.ru/udina-svetlana.aspx",
+    "kind": "profile",
+    "heading": "Юдина Светлана Владимировна"
+  },
+  {
+    "file": "serebryakova-naira.html",
+    "url": "https://advokat-sheriev.ru/serebryakova-naira.aspx",
+    "kind": "profile",
+    "heading": "Серебрякова Наира Геворковна"
+  },
+  {
+    "file": "advokat-hapugin.html",
+    "url": "https://advokat-sheriev.ru/advokat-hapugin.aspx",
+    "kind": "profile",
+    "heading": "Хапугин Иван Михайлович"
+  },
+  {
+    "file": "khamrakulov.html",
+    "url": "https://advokat-sheriev.ru/khamrakulov.aspx",
+    "kind": "profile",
+    "heading": "Хамракулов Шахзод"
+  },
+  {
+    "file": "Ermolaeva-maria-sergeevna.html",
+    "url": "https://advokat-sheriev.ru/Ermolaeva-maria-sergeevna.aspx",
+    "kind": "profile",
+    "heading": "Ермолаева Мария Сергеевна"
+  },
+  {
+    "file": "urist-raev-andrei.html",
+    "url": "https://advokat-sheriev.ru/urist-raev-andrei.aspx",
+    "kind": "profile",
+    "heading": "Юрист Раев Андрей Сергеевич"
+  },
+  {
+    "file": "news-300726.html",
+    "url": "https://advokat-sheriev.ru/news-300726.aspx",
+    "kind": "news",
+    "heading": "Стажеры Коллегии получают статус адвоката"
+  },
+  {
+    "file": "150426.html",
+    "url": "https://advokat-sheriev.ru/150426.aspx",
+    "kind": "news",
+    "heading": "Публикация о КА г. Москвы «Шериев и партнеры» в журнале «Российский адвокат»"
+  },
+  {
+    "file": "news-130426.html",
+    "url": "https://advokat-sheriev.ru/news-130426.aspx",
+    "kind": "news",
+    "heading": "Наши молодые специалисты постоянно повышают свой профессиональный уровень."
+  },
+  {
+    "file": "news-031225.html",
+    "url": "https://advokat-sheriev.ru/news-031225.aspx",
+    "kind": "news",
+    "heading": "Blockchain Forum 2026: топ причин приехать в Москву 14–15 апреля"
+  },
+  {
+    "file": "news-091025.html",
+    "url": "https://advokat-sheriev.ru/news-091025.aspx",
+    "kind": "news",
+    "heading": "Встреча руководителей крупных адвокатских образований с президентом АП Москвы"
+  },
+  {
+    "file": "news-220925.html",
+    "url": "https://advokat-sheriev.ru/news-220925.aspx",
+    "kind": "news",
+    "heading": "Адвокат Ахмед Шериев принял участие в качестве эксперта в программе ДНК на НТВ"
+  },
+  {
+    "file": "news-250825.html",
+    "url": "https://advokat-sheriev.ru/news-250825.aspx",
+    "kind": "news",
+    "heading": "Форум Blockchain Life в Дубае 28–29 октября. Что ожидать от криптособытия года?"
+  },
+  {
+    "file": "news-010825.html",
+    "url": "https://advokat-sheriev.ru/news-010825.aspx",
+    "kind": "news",
+    "heading": "Руководитель Коллегии удостоен почетной грамотой ФПА"
+  },
+  {
+    "file": "news-210725.html",
+    "url": "https://advokat-sheriev.ru/news-210725.aspx",
+    "kind": "news",
+    "heading": "Мировые лидеры крипторынка собираются в Дубае на 15-й Юбилейный Blockchain Life Forum — уже 28–29 октября!"
+  },
+  {
+    "file": "news-120625.html",
+    "url": "https://advokat-sheriev.ru/news-120625.aspx",
+    "kind": "news",
+    "heading": "Адвокатов Коллегии отметили корпоративными знаками отличия"
+  },
+  {
+    "file": "news-260425.html",
+    "url": "https://advokat-sheriev.ru/news-260425.aspx",
+    "kind": "news",
+    "heading": "На Blockchain Life 2025 в Москве эксклюзивно выступили лидеры крипто сообщества России и Мира"
+  },
+  {
+    "file": "news-220425.html",
+    "url": "https://advokat-sheriev.ru/news-220425.aspx",
+    "kind": "news",
+    "heading": "Blockchain Forum 2025 в Москве: Топ Причин Посетить Криптособытие Года"
+  },
+  {
+    "file": "news-310325.html",
+    "url": "https://advokat-sheriev.ru/news-310325.aspx",
+    "kind": "news",
+    "heading": "Руководитель Коллегии А. Шериев принял участие в совещании крупных адвокатских образований Москвы"
+  },
+  {
+    "file": "news-240325.html",
+    "url": "https://advokat-sheriev.ru/news-240325.aspx",
+    "kind": "news",
+    "heading": "Коллегия адвокатов отметила свою 9-ую годовщину создания. Был проведен праздничный фуршет."
+  },
+  {
+    "file": "news-020325.html",
+    "url": "https://advokat-sheriev.ru/news-020325.aspx",
+    "kind": "news",
+    "heading": "Адвокат добился положительного результата по делу о защите нарушителя авторских прав"
+  },
+  {
+    "file": "news-230425.html",
+    "url": "https://advokat-sheriev.ru/news-230425.aspx",
+    "kind": "news",
+    "heading": "Blockchain Life 2025 представляет вторую сцену"
+  },
+  {
+    "file": "news-210225.html",
+    "url": "https://advokat-sheriev.ru/news-210225.aspx",
+    "kind": "news",
+    "heading": "Круглый стол посвященный проблемам оказания правовой помощи военнослужащим участникам СВО."
+  },
+  {
+    "file": "news-290125.html",
+    "url": "https://advokat-sheriev.ru/news-290125.aspx",
+    "kind": "news",
+    "heading": "Введение в профессию для практикантов студентов МГУ и МГЮА"
+  },
+  {
+    "file": "230924.html",
+    "url": "https://advokat-sheriev.ru/230924.aspx",
+    "kind": "news",
+    "heading": "Наш эксперт дал комментарии СМИ по изменению закона в обороте цифровой валюты."
+  },
+  {
+    "file": "240724.html",
+    "url": "https://advokat-sheriev.ru/240724.aspx",
+    "kind": "news",
+    "heading": "Руководитель Коллегии принял участие в бизнес фестивале предпринимателей"
+  },
+  {
+    "file": "news-13.html",
+    "url": "https://advokat-sheriev.ru/news-13.aspx",
+    "kind": "news",
+    "heading": "Прекращение обременения в виде ипотеки на квартиру"
+  },
+  {
+    "file": "290923.html",
+    "url": "https://advokat-sheriev.ru/290923.aspx",
+    "kind": "news",
+    "heading": "Участие в форуме Промаркетплейсы"
+  },
+  {
+    "file": "oborot-lekarstv.html",
+    "url": "https://advokat-sheriev.ru/oborot-lekarstv.aspx",
+    "kind": "news",
+    "heading": "Оборот фальсифицированных лекарственных средств"
+  },
+  {
+    "file": "news-220223.html",
+    "url": "https://advokat-sheriev.ru/news-220223.aspx",
+    "kind": "news",
+    "heading": "Из практики адвокатов по ч. 3 ст. 159 УК РФ"
+  },
+  {
+    "file": "news-301122.html",
+    "url": "https://advokat-sheriev.ru/news-301122.aspx",
+    "kind": "news",
+    "heading": "Конкурс МГЮА"
+  },
+  {
+    "file": "news-200622.html",
+    "url": "https://advokat-sheriev.ru/news-200622.aspx",
+    "kind": "news",
+    "heading": "Адвокат помог установить отцовство"
+  },
+  {
+    "file": "news-070622.html",
+    "url": "https://advokat-sheriev.ru/news-070622.aspx",
+    "kind": "news",
+    "heading": "Решения ЕСПЧ теперь не будут исполняться"
+  },
+  {
+    "file": "news-010622.html",
+    "url": "https://advokat-sheriev.ru/news-010622.aspx",
+    "kind": "news",
+    "heading": "Получение гражданства для беженцев из Украины"
+  },
+  {
+    "file": "news-090522.html",
+    "url": "https://advokat-sheriev.ru/news-090522.aspx",
+    "kind": "news",
+    "heading": "Запрет на комиссии с расчетного счета"
+  },
+  {
+    "file": "news-050522.html",
+    "url": "https://advokat-sheriev.ru/news-050522.aspx",
+    "kind": "news",
+    "heading": "Как защититься при отмене турпутевки"
+  },
+  {
+    "file": "news-300422.html",
+    "url": "https://advokat-sheriev.ru/news-300422.aspx",
+    "kind": "news",
+    "heading": "Изменение законодательства в Мае 2022 г"
+  },
+  {
+    "file": "news-220422.html",
+    "url": "https://advokat-sheriev.ru/news-220422.aspx",
+    "kind": "news",
+    "heading": "Программа золотых паспортов"
+  },
+  {
+    "file": "news-120422.html",
+    "url": "https://advokat-sheriev.ru/news-120422.aspx",
+    "kind": "news",
+    "heading": "Что грозит гонщику Северюхину за жест, похожий на нацистское приветствие"
+  },
+  {
+    "file": "news-040322.html",
+    "url": "https://advokat-sheriev.ru/news-040322.aspx",
+    "kind": "news",
+    "heading": "Конференция по интеллектуальным правам «Distant & Digital»"
+  },
+  {
+    "file": "news-171121.html",
+    "url": "https://advokat-sheriev.ru/news-171121.aspx",
+    "kind": "news",
+    "heading": "Адвокат Ахмед Шериев принял участие в передаче «за гранью»"
+  },
+  {
+    "file": "popravki-sledkom.html",
+    "url": "https://advokat-sheriev.ru/popravki-sledkom.aspx",
+    "kind": "news",
+    "heading": "Следственный комитет РФ предлагает пакет поправок в ст. 144 УПК"
+  },
+  {
+    "file": "news-201021.html",
+    "url": "https://advokat-sheriev.ru/news-201021.aspx",
+    "kind": "news",
+    "heading": "Защита авторских прав поэта Ефрема Амирамова"
+  },
+  {
+    "file": "news-011021.html",
+    "url": "https://advokat-sheriev.ru/news-011021.aspx",
+    "kind": "news",
+    "heading": "Цифровое депонирование произведений"
+  },
+  {
+    "file": "news-120921.html",
+    "url": "https://advokat-sheriev.ru/news-120921.aspx",
+    "kind": "news",
+    "heading": "Адвокат Ахмед Шериев - эксперт на НТВ"
+  },
+  {
+    "file": "dolgaya-beseda.html",
+    "url": "https://advokat-sheriev.ru/dolgaya-beseda.aspx",
+    "kind": "news",
+    "heading": "Долгая беседа тоже задержание"
+  },
+  {
+    "file": "ugolovnoe-ekocid.html",
+    "url": "https://advokat-sheriev.ru/ugolovnoe-ekocid.aspx",
+    "kind": "news",
+    "heading": "Первое в истории России уголовное дело по экоциду"
+  },
+  {
+    "file": "vihodnye-v-moskve.html",
+    "url": "https://advokat-sheriev.ru/vihodnye-v-moskve.aspx",
+    "kind": "news",
+    "heading": "Выходные дни в Москве с 12 по 20 июня 2021 г"
+  },
+  {
+    "file": "news-150521.html",
+    "url": "https://advokat-sheriev.ru/news-150521.aspx",
+    "kind": "news",
+    "heading": "Учебные суды в МГЮА"
+  },
+  {
+    "file": "otborochnom-ture-uchebnykh-sudov.html",
+    "url": "https://advokat-sheriev.ru/otborochnom-ture-uchebnykh-sudov.aspx",
+    "kind": "news",
+    "heading": "Учебные суды на площадке МГЮА им Кутафина"
+  },
+  {
+    "file": "news-6.html",
+    "url": "https://advokat-sheriev.ru/news-6.aspx",
+    "kind": "news",
+    "heading": "Смягчен приговор по ст. 291.1 УК"
+  },
+  {
+    "file": "news-5.html",
+    "url": "https://advokat-sheriev.ru/news-5.aspx",
+    "kind": "news",
+    "heading": "Исследования о стоимости услуг адвокатов."
+  },
+  {
+    "file": "news-4.html",
+    "url": "https://advokat-sheriev.ru/news-4.aspx",
+    "kind": "news",
+    "heading": "Приговор по уголовному делу о мошенничестве. (ч.4 ст.159 УК РФ)."
+  },
+  {
+    "file": "news-3.html",
+    "url": "https://advokat-sheriev.ru/news-3.aspx",
+    "kind": "news",
+    "heading": "Уголовное дело по разбойному нападению.(ч.4 ст. 162 УК РФ)"
+  },
+  {
+    "file": "news-2.html",
+    "url": "https://advokat-sheriev.ru/news-2.aspx",
+    "kind": "news",
+    "heading": "01.04.2019 г. Дело по трудовому спору в Симоновском районном суде г. Москвы"
+  },
+  {
+    "file": "news-1.html",
+    "url": "https://advokat-sheriev.ru/news-1.aspx",
+    "kind": "news",
+    "heading": "г.Гражданское дело в Тульском городском суде о взыскании денежных средств по расписке"
+  },
+  {
+    "file": "news-slushanie-po-st-290.html",
+    "url": "https://advokat-sheriev.ru/news-slushanie-po-st-290%20.aspx",
+    "kind": "news",
+    "heading": "Слушание уголовного дела по ст. 290 УК РФ завершено"
+  },
+  {
+    "file": "razblokirovka-scheta-yur-lica-v-vtb-24.html",
+    "url": "https://advokat-sheriev.ru/razblokirovka-scheta-yur-lica-v-vtb-24.aspx",
+    "kind": "news",
+    "heading": "Разблокировка счета Юр лица в ВТБ 24 в претенциозном порядке без суда."
+  },
+  {
+    "file": "dela-po-vzyatke-st-290-uk-rf.html",
+    "url": "https://advokat-sheriev.ru/dela-po-vzyatke-st-290-uk-rf.aspx",
+    "kind": "news",
+    "heading": "Слушание уголовного дела по взятке ст. 290 УК РФ и посредничеству во взятке ст. 291.1 УК РФ"
+  },
+  {
+    "file": "publ-091025.html",
+    "url": "https://advokat-sheriev.ru/publ-091025.aspx",
+    "kind": "publication",
+    "heading": "Комментарий адвоката Шериева Бизнес-FM по вопросу потребительского экстремизма"
+  },
+  {
+    "file": "praktika-po-ugolovnim-delam.html",
+    "url": "https://advokat-sheriev.ru/praktika-po-ugolovnim-delam.aspx",
+    "kind": "result",
+    "heading": "Судебная практика по уголовным делам"
+  },
+  {
+    "file": "praktika-po-grajdanskim-delam.html",
+    "url": "https://advokat-sheriev.ru/praktika-po-grajdanskim-delam.aspx",
+    "kind": "result",
+    "heading": "Судебная практика по гражданским делам"
+  },
+  {
+    "file": "praktika-po-trudovim-delam.html",
+    "url": "https://advokat-sheriev.ru/praktika-po-trudovim-delam.aspx",
+    "kind": "result",
+    "heading": "Судебная практика по трудовым делам"
+  },
+  {
+    "file": "pravovoe-soprovogdenie-turcii.html",
+    "url": "https://advokat-sheriev.ru/pravovoe-soprovogdenie-turcii.aspx",
+    "kind": "partner",
+    "heading": "Правовое сопровождение в Турции"
+  },
+  {
+    "file": "advokat-gemeny.html",
+    "url": "https://advokat-sheriev.ru/advokat-gemeny.aspx",
+    "kind": "partner",
+    "heading": "Юридическая помощь в Германии"
+  },
+  {
+    "file": "advokat-usa.html",
+    "url": "https://advokat-sheriev.ru/advokat-usa.aspx",
+    "kind": "partner",
+    "heading": "Иммиграционный адвокат в США"
+  },
+  {
+    "file": "kupit-kvartiru-v-turcii.html",
+    "url": "https://advokat-sheriev.ru/kupit-kvartiru-v-turcii.aspx",
+    "kind": "partner",
+    "heading": "Помощь в приобретении квартиры в Турции"
+  },
+  {
+    "file": "nedvigimost-turcii.html",
+    "url": "https://advokat-sheriev.ru/nedvigimost-turcii.aspx",
+    "kind": "partner",
+    "heading": "Сопровождение приобретения недвижимости в Турции и оформления гражданства"
+  },
+  {
+    "file": "advokat-chehiya.html",
+    "url": "https://advokat-sheriev.ru/advokat-chehiya.aspx",
+    "kind": "partner",
+    "heading": "Правовая помощь адвокатов в Чехии"
+  },
+  {
+    "file": "grazhdanskie-dela.html",
+    "url": "https://advokat-sheriev.ru/grazhdanskie-dela.aspx",
+    "kind": "service",
+    "heading": "Представительство в суде - гражданский адвокат"
+  },
+  {
+    "file": "straxovye-spory.html",
+    "url": "https://advokat-sheriev.ru/straxovye-spory.aspx",
+    "kind": "service",
+    "heading": "Юридическая помощь по страхованию"
+  },
+  {
+    "file": "270122.html",
+    "url": "https://advokat-sheriev.ru/270122.aspx",
+    "kind": "publication",
+    "heading": "Вина дорожников при ДТП"
+  },
+  {
+    "file": "050122.html",
+    "url": "https://advokat-sheriev.ru/050122.aspx",
+    "kind": "publication",
+    "heading": "Спор между собственниками в коммунальной квартире"
+  },
+  {
+    "file": "otmena-sudebnogo-prikaza.html",
+    "url": "https://advokat-sheriev.ru/otmena-sudebnogo-prikaza.aspx",
+    "kind": "document",
+    "heading": "Возражения на судебный приказ"
+  },
+  {
+    "file": "vozbugdenie-ispolnitelnogo-proizvodstva.html",
+    "url": "https://advokat-sheriev.ru/vozbugdenie-ispolnitelnogo-proizvodstva.aspx",
+    "kind": "service",
+    "heading": "Возбуждение исполнительного производства"
+  },
+  {
+    "file": "hodataistvo-o-proverke-schetov-dolgnika.html",
+    "url": "https://advokat-sheriev.ru/hodataistvo-o-proverke-schetov-dolgnika.aspx",
+    "kind": "document",
+    "heading": "Ходатайство о проверке счетов должника"
+  },
+  {
+    "file": "hodataistvo-o-priostanovlenii-ispolnitelnogo-proizvodstva.html",
+    "url": "https://advokat-sheriev.ru/hodataistvo-o-priostanovlenii-ispolnitelnogo-proizvodstva.aspx",
+    "kind": "document",
+    "heading": "приостановление исполнительного производства"
+  },
+  {
+    "file": "zayavlenie-ob-oznakomlenii-s-delom.html",
+    "url": "https://advokat-sheriev.ru/zayavlenie-ob-oznakomlenii-s-delom.aspx",
+    "kind": "document",
+    "heading": "Заявление об ознакомлении с исполнительным делом"
+  },
+  {
+    "file": "hodataistvo-o-vidache-dublikata-lista.html",
+    "url": "https://advokat-sheriev.ru/hodataistvo-o-vidache-dublikata-lista.aspx",
+    "kind": "document",
+    "heading": "Выдача дубликата исполнительного листа"
+  },
+  {
+    "file": "zayavlenie-o-rassrochke-ispolnenia.html",
+    "url": "https://advokat-sheriev.ru/zayavlenie-o-rassrochke-ispolnenia.aspx",
+    "kind": "document",
+    "heading": "Заявление о рассрочке исполнения"
+  },
+  {
+    "file": "zayavlenie-o-razjasnenii-ispdokumenta.html",
+    "url": "https://advokat-sheriev.ru/zayavlenie-o-razjasnenii-ispdokumenta.aspx",
+    "kind": "document",
+    "heading": "Разъяснение исполнительного документа"
+  },
+  {
+    "file": "jaloba-na-bezdeistvie-pristavov.html",
+    "url": "https://advokat-sheriev.ru/jaloba-na-bezdeistvie-pristavov.aspx",
+    "kind": "document",
+    "heading": "Жалоба на бездействие судебного пристава-исполнителя"
+  },
+  {
+    "file": "jaloba-starshemu-pristavu.html",
+    "url": "https://advokat-sheriev.ru/jaloba-starshemu-pristavu.aspx",
+    "kind": "document",
+    "heading": "Жалоба старшему судебному приставу"
+  },
+  {
+    "file": "jaloba-vsud-na-pristava.html",
+    "url": "https://advokat-sheriev.ru/jaloba-vsud-na-pristava.aspx",
+    "kind": "document",
+    "heading": "Жалоба на судебного пристава-исполнителя"
+  },
+  {
+    "file": "analiz-ugolovnih-del.html",
+    "url": "https://advokat-sheriev.ru/analiz-ugolovnih-del.aspx",
+    "kind": "service",
+    "heading": "Анализ материалов уголовных дел"
+  },
+  {
+    "file": "advokat-po-ubiistvu.html",
+    "url": "https://advokat-sheriev.ru/advokat-po-ubiistvu.aspx",
+    "kind": "service",
+    "heading": "Адвокат по убийству ст 105 УК РФ"
+  },
+  {
+    "file": "advokat-po-razbou.html",
+    "url": "https://advokat-sheriev.ru/advokat-po-razbou.aspx",
+    "kind": "service",
+    "heading": "Адвокаты по разбою - ст. 162 УК"
+  },
+  {
+    "file": "advokat-po-kraje.html",
+    "url": "https://advokat-sheriev.ru/advokat-po-kraje.aspx",
+    "kind": "service",
+    "heading": "Адвокат по кражам - ст. 158 УК РФ"
+  },
+  {
+    "file": "advokat-po-grabeju.html",
+    "url": "https://advokat-sheriev.ru/advokat-po-grabeju.aspx",
+    "kind": "service",
+    "heading": "Защита адвокатов по ст 161 УК РФ - Грабеж"
+  },
+  {
+    "file": "advokat-po-moshennichestvu.html",
+    "url": "https://advokat-sheriev.ru/advokat-po-moshennichestvu.aspx",
+    "kind": "service",
+    "heading": "Адвокаты по делам о мошенничестве"
+  },
+  {
+    "file": "advokat-po-vzatkam.html",
+    "url": "https://advokat-sheriev.ru/advokat-po-vzatkam.aspx",
+    "kind": "service",
+    "heading": "Адвокаты по делам о взятках - ст. 290 УК, 291 УК, 291.1 УК"
+  },
+  {
+    "file": "advokat-po-delam-o-narkotikax-i-silnodejstvuyushhim-psixotropnym-veshhestvam.html",
+    "url": "https://advokat-sheriev.ru/advokat-po-delam-o-narkotikax-i-silnodejstvuyushhim-psixotropnym-veshhestvam.aspx",
+    "kind": "service",
+    "heading": "Адвокаты по делам о наркотиках - ст 228, 228.1 УК"
+  },
+  {
+    "file": "advokat-po-prestupleniyam-po-prisvoeniyu-i-rastrate.html",
+    "url": "https://advokat-sheriev.ru/advokat-po-prestupleniyam-po-prisvoeniyu-i-rastrate.aspx",
+    "kind": "service",
+    "heading": "Адвокат по преступлениям о присвоении и растрате"
+  },
+  {
+    "file": "advokat-po-dolgnostnym.html",
+    "url": "https://advokat-sheriev.ru/advokat-po-dolgnostnym.aspx",
+    "kind": "service",
+    "heading": "Адвокаты по должностным преступлениям"
+  },
+  {
+    "file": "advokat-po-polovym-prestupleniyam.html",
+    "url": "https://advokat-sheriev.ru/advokat-po-polovym-prestupleniyam.aspx",
+    "kind": "service",
+    "heading": "Адвокаты по уголовным делам ст. 131-135 УК РФ"
+  },
+  {
+    "file": "advokat-po-klevete.html",
+    "url": "https://advokat-sheriev.ru/advokat-po-klevete.aspx",
+    "kind": "service",
+    "heading": "Адвокаты по клевете ст. 128.1 УК"
+  },
+  {
+    "file": "voennye-ugilovnye-dela.html",
+    "url": "https://advokat-sheriev.ru/voennye-ugilovnye-dela.aspx",
+    "kind": "service",
+    "heading": "Военные уголовные дела"
+  },
+  {
+    "file": "advokat-po-nalogovim.html",
+    "url": "https://advokat-sheriev.ru/advokat-po-nalogovim.aspx",
+    "kind": "service",
+    "heading": "Защита по налоговым преступлениям"
+  },
+  {
+    "file": "advokat-po-ekonomicheskim-prestupleniam.html",
+    "url": "https://advokat-sheriev.ru/advokat-po-ekonomicheskim-prestupleniam.aspx",
+    "kind": "service",
+    "heading": "Адвокаты по экономическим делам"
+  },
+  {
+    "file": "jaloba-vporyadke-st123.html",
+    "url": "https://advokat-sheriev.ru/jaloba-vporyadke-st123.aspx",
+    "kind": "document",
+    "heading": "Жалоба в порядке ст. 123 УПК"
+  },
+  {
+    "file": "srok-objalovania-prigovora.html",
+    "url": "https://advokat-sheriev.ru/srok-objalovania-prigovora.aspx",
+    "kind": "service",
+    "heading": "Новый порядок обжалования приговоров суда"
+  },
+  {
+    "file": "advokatu-po-alimentam.html",
+    "url": "https://advokat-sheriev.ru/advokatu-po-alimentam.aspx",
+    "kind": "service",
+    "heading": "Адвокаты по алиментам"
+  },
+  {
+    "file": "partnery.html",
+    "url": "https://advokat-sheriev.ru/partnery.aspx",
+    "kind": "directory",
+    "heading": "Партнёры коллегии адвокатов"
+  },
+  {
+    "file": "doveritely-kollegii.html",
+    "url": "https://advokat-sheriev.ru/doveritely-kollegii.aspx",
+    "kind": "directory",
+    "heading": "Доверители коллегии адвокатов"
+  },
+  {
+    "file": "rezultat-dela-01.html",
+    "url": "https://advokat-sheriev.ru/rezultat-dela-01.aspx",
+    "kind": "result",
+    "heading": "Уголовное преследование прекращено",
+    "source": "https://advokat-sheriev.ru/praktika-po-ugolovnim-delam.aspx"
+  },
+  {
+    "file": "rezultat-dela-02.html",
+    "url": "https://advokat-sheriev.ru/rezultat-dela-02.aspx",
+    "kind": "result",
+    "heading": "В заключении под стражу отказано",
+    "source": "https://advokat-sheriev.ru/praktika-po-ugolovnim-delam.aspx"
+  },
+  {
+    "file": "rezultat-dela-03.html",
+    "url": "https://advokat-sheriev.ru/rezultat-dela-03.aspx",
+    "kind": "result",
+    "heading": "Наказание заменено штрафом",
+    "source": "https://advokat-sheriev.ru/praktika-po-ugolovnim-delam.aspx"
+  },
+  {
+    "file": "rezultat-dela-04.html",
+    "url": "https://advokat-sheriev.ru/rezultat-dela-04.aspx",
+    "kind": "result",
+    "heading": "Дело прекращено на стадии следствия",
+    "source": "https://advokat-sheriev.ru/praktika-po-ugolovnim-delam.aspx"
+  },
+  {
+    "file": "rezultat-dela-05.html",
+    "url": "https://advokat-sheriev.ru/rezultat-dela-05.aspx",
+    "kind": "result",
+    "heading": "Определены место жительства и порядок общения",
+    "source": "https://advokat-sheriev.ru/semejnye-spory.aspx"
+  },
+  {
+    "file": "rezultat-dela-06.html",
+    "url": "https://advokat-sheriev.ru/rezultat-dela-06.aspx",
+    "kind": "result",
+    "heading": "Ипотечная квартира разделена судом",
+    "source": "https://advokat-sheriev.ru/semejnye-spory.aspx"
+  },
+  {
+    "file": "rezultat-dela-07.html",
+    "url": "https://advokat-sheriev.ru/rezultat-dela-07.aspx",
+    "kind": "result",
+    "heading": "Решение общего собрания признано недействительным",
+    "source": "https://advokat-sheriev.ru/praktika-po-grajdanskim-delam.aspx"
+  },
+  {
+    "file": "rezultat-dela-08.html",
+    "url": "https://advokat-sheriev.ru/rezultat-dela-08.aspx",
+    "kind": "result",
+    "heading": "Право собственности признано в порядке наследования",
+    "source": "https://advokat-sheriev.ru/praktika-po-grajdanskim-delam.aspx"
+  },
+  {
+    "file": "rezultat-dela-09.html",
+    "url": "https://advokat-sheriev.ru/rezultat-dela-09.aspx",
+    "kind": "result",
+    "heading": "Работник восстановлен в должности",
+    "source": "https://advokat-sheriev.ru/praktika-po-trudovim-delam.aspx"
+  },
+  {
+    "file": "rezultat-dela-10.html",
+    "url": "https://advokat-sheriev.ru/rezultat-dela-10.aspx",
+    "kind": "result",
+    "heading": "В восстановлении на работе отказано",
+    "source": "https://advokat-sheriev.ru/praktika-po-trudovim-delam.aspx"
+  },
+  {
+    "file": "rezultat-dela-11.html",
+    "url": "https://advokat-sheriev.ru/rezultat-dela-11.aspx",
+    "kind": "result",
+    "heading": "Увечье признано полученным при исполнении обязанностей",
+    "source": "https://advokat-sheriev.ru/praktika-po-trudovim-delam.aspx"
+  },
+  {
+    "file": "rezultat-dela-13.html",
+    "url": "https://advokat-sheriev.ru/rezultat-dela-13.aspx",
+    "kind": "result",
+    "heading": "В иске об освобождении помещений отказано",
+    "source": "https://advokat-sheriev.ru/advokat-katelevskiy.aspx"
+  }
+]

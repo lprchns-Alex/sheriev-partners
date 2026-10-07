@@ -1,6 +1,8 @@
 # Новая версия v.8.seo
 
-SEO-правки всех 36 страниц. Состояние, проверки и открытые пункты: [SEO-STATUS.txt](SEO-STATUS.txt). Исходная v.7.final сохранена отдельно.
+198 страниц с общими SEO-правилами. 7 октября добавлены 162 страницы: [отчёт](COMPLETION-STATUS.txt).
+
+[Все страницы с поиском](pages/) · [Список в TXT](pages/pages.txt) · [Storybook](ui-kit/)
 
 Просмотр: https://lprchns-alex.github.io/sheriev-partners/v.8.seo/
 
