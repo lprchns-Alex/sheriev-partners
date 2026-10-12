@@ -70,3 +70,13 @@
 /* Keep inline contact numbers readable as a single unit. */
 .migrated-copy a[href^="tel:"] { display:inline-block; white-space:nowrap; }
 .migrated-copy h2, .migrated-copy h3 { hyphens:none; }
+
+/* Imported link directories must remain separate rows, including wrapped labels. */
+.migrated-copy > a,
+.migrated-disclosure-body > a,
+.migrated-copy > .migrated-unavailable,
+.migrated-disclosure-body > .migrated-unavailable {
+  display:block;
+  margin:14px 0;
+  line-height:1.65;
+}

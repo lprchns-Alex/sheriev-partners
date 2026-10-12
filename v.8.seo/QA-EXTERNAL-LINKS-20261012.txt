@@ -1,0 +1,96 @@
+Внешние источники: повторная проверка GET, 12.10.2026.
+Таймауты и ошибки сертификатов не означают, что материал удалён.
+neva24.ru и vg-news.ru: переходы отключены, записи сохранены с пометкой.
+ВС РФ: URL находится в поисковой выдаче официального сайта, но прямой запрос из среды вернул 404. Ссылка сохранена.
+
+http://neva24.ru/socium/2897-narushenie-prava-grazhdan-na-svobodnoe-peredvizhenie-na-primere-moskvy-i-moskovskoy-oblasti.html
+HTTP Error 404: Not Found
+
+http://vg-news.ru/n/143893
+HTTP Error 410: Gone
+
+http://worldcrisis.ru/crisis/3629973
+timed out
+
+http://worldcrisis.ru/crisis/3737282
+timed out
+
+http://worldcrisis.ru/crisis/4145349/
+timed out
+
+http://worldcrisis.ru/crisis/4155891
+timed out
+
+https://1jur.ru/?trialtoken=e5585b1c-d331-41d4-9630-04a8fcf9a9f4&trialtype=ltc#/document/16/202562/e5585b1c-d331-41d4-9630-04a8fcf9a9f4/ltc/?utm_source=uss.vip&utm_compaign=vip_share
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+
+https://igzakon.ru/magazine/article?id=7550
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>
+
+https://journal.totdom.com/news/sozaemshchik_po_ipoteke_kto_eto_prava_i_obyazannosti_nuzhen_li_sozaemshchik_dlya_ipoteki/
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'journal.totdom.com'. (_ssl.c:1010)>
+
+https://koza.press/news/6739
+<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+
+https://mos-gorsud.ru/rs/zamoskvoreckij/services/cases/criminal/details/0b5e217e-0e56-48d3-b650-21ba7b96a2f6?respondent=%D0%91%D1%83%D1%85%D1%82%D0%BE%D1%8F%D1%80%D0%BE%D0%B2+%D0%94.%D0%90
+<urlopen error timed out>
+
+https://ros-advocat.ru/actual/advocate-yunus-deberdeev-o-problemah-prodsvcov-kryptovaluty/
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ros-advocat.ru'. (_ssl.c:1010)>
+
+https://ros-advocat.ru/justices/standart-besplatnoj-juridicheskoj-pomoshhi-kommentarii-praktikov/
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ros-advocat.ru'. (_ssl.c:1010)>
+
+https://ros-advocat.ru/justices/tendencii-i-problematika-okazanija-besplatnoj-juridicheskoj-pomoshhi-voennosluzhashhim-i-chlenam-ih-semej/
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ros-advocat.ru'. (_ssl.c:1010)>
+
+https://ros-advocat.ru/offices/ogranichenie-priema-nalichnyh-bankomatami/
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ros-advocat.ru'. (_ssl.c:1010)>
+
+https://rutube.ru/video/484e690e74d58953c7b87eb63237e5f0/?playlist=204829
+<urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+https://subscribe.ru/group/hochu-vsyo-znyitpoleznyie-sovetyi/16224237/
+HTTP Error 502: Bad Gateway
+
+https://vsrf.ru/documents/own/8535/
+HTTP Error 404: Not Found
+
+https://worldcrisis.ru/crisis/3737282
+<urlopen error [Errno 61] Connection refused>
+
+https://www.kaluga.kp.ru/online/news/5861670/?erid=2Vfnxw8R1X6
+The read operation timed out
+
+https://www.klerk.ru/materials/2021-05-20/514146/?fbclid=IwAR0K9LkS33vTW4B-pcP56keIswW-RZoyUekUUhEhXxqf0gdySnW0mgNMTP4
+The read operation timed out
+
+https://www.klerk.ru/materials/2021-06-07/514935/
+The read operation timed out
+
+https://www.klerk.ru/materials/2024-06-03/609701/
+The read operation timed out
+
+https://www.klerk.ru/materials/2026-02-05/678386/
+The read operation timed out
+
+https://www.klerk.ru/user/2198679/707178/
+The read operation timed out
+
+https://www.mos-gorsud.ru/rs/kuncevskij/services/cases/criminal/details/83c8917d-c52c-4ff0-8877-035f39f75abd?respondent=%D0%A8%D0%B8%D0%B4%D0%B6%D0%B8%D0%BD%D0%B0
+<urlopen error timed out>
+
+https://www.mos-gorsud.ru/rs/nagatinskij/services/cases/criminal/details/7fd967c8-4314-4325-88b5-fdf018142a23?respondent=%D0%93%D0%B0%D0%B4%D0%B6%D0%B8%D0%B5%D0%B2&caseJudge=%D0%A4%D0%B8%D0%BB%D0%B0%D1%82%D0%BE%D0%B2+%D0%90.%D0%AE.&sessionRangeDateFrom=01.07.2018&formType=fullForm
+<urlopen error timed out>
+
+https://yandex.ru/turbo/rbc.ru/s/finances/27/11/2020/5fbf67059a7947948be2656c?utm_source=yxnews&utm_medium=mobile&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews%2Fstory%2FCB_predlozhil_novye_pravila_ocenki_riska_obnalichivaniya_deneg--2f55519d5edeb29b60ef001af8470d35&fbclid=IwAR0XxhxuE5Y-6NDuTIDW6mIJjQi5JIt0klkHR0qhJOnVTTOdfhlZrX5XoLo
+HTTP Error 404: Not found
+
+https://zelen.ru/news/20200921/205621/
+<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>
+
+https://zelen.ru/news/20201015/203929/
+<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>
